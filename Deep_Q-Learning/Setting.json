@@ -1,0 +1,60 @@
+{
+	"NETWORK": {
+		"number nodes": 49,
+		"edge degree": 3,
+		"holding capacity": 75,
+		"sending capacity": 20,
+		"initial num packets":1500,
+		"max_additional_packets":20000,
+		"max_edge_weight": 10,
+		"min_edge_removal": 0,
+		"max_edge_removal": 10,
+		"node_move_number": 1,
+		"edge_change_type": "none",
+		"network_type": "barabasi-albert",
+		"use_which_network": "old"
+	},
+	"DQN": {
+		"take_queue_size_as_input": 1,
+		"take_buffer_size_as_input":0,
+		"take_max_neighbour_buffer_size_as_input": 0,
+		"memory_batch_size": 16,
+		"memory_bank_size": 1000,
+		"optimizer_learning_rate": 0.005,
+		"optimize_per_episode": 1,
+		"different_optimizer": 1,
+		"model_path": "./net_params_new.pth",
+		"train_times": 1
+	},
+	"AGENT": {
+		"epsilon": 0.7,
+		"decay_epsilon_rate": 0.99998,
+		"gamma_for_next_q_val": 0.6,
+		"use_random_sample_memory": 1,
+		"use_most_recent_memory": 0,
+		"use_priority_memory": 0
+	},
+	"Simulation": {
+		"training_episodes":0,
+		"max_allowed_time_step_per_episode": 400,
+		"num_time_step_to_update_target_network":10,
+		"test_network_load_min": 250,
+		"test_network_load_max":1500 ,
+		"test_network_load_step_size":250,
+		"test_trials_per_load": 1,
+		"test_trials_per_load_SP": 1,
+		"learning_plot": 0,
+		"test_diff_network_load_plot": 1,
+		"plot_routing_network": 1,
+		"testing_episodes": 6,
+		"testing_episodes_local_training": 6,
+		"whether_save": 1,
+		"whether_test": 0,
+		"whether_retrain": 1,
+		"SP_test_opt": 1,
+		"DQN_test_opt": 1,
+		"SP_test_opt_change": 1,
+		"DQN_test_opt_change": 1,
+		"network_opt_test": 0
+	}
+}

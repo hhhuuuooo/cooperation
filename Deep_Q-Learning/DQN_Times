@@ -1,0 +1,5222 @@
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 46
+delivery_ratio: 0.6040160642570281
+avg_delivery_time: 247.11635638297872
+Episode 1:
+Epsilon: 0.6888890138149679
+congestion happened,the number of dropped packets is:: 55
+delivery_ratio: 0.7249858677218768
+avg_delivery_time: 167.0448343079922
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6288047512991833
+avg_delivery_time: 44.913813459268006
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6170376055257099
+avg_delivery_time: 46.64179104477612
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6081504702194357
+avg_delivery_time: 40.93170103092783
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 281
+delivery_ratio: 0.5474118185982593
+avg_delivery_time: 46.256903765690375
+trial 1:
+congestion happened,the number of dropped packets is:: 251
+delivery_ratio: 0.55032021957914
+avg_delivery_time: 38.280133000831256
+trial 2:
+congestion happened,the number of dropped packets is:: 246
+delivery_ratio: 0.5598386373823397
+avg_delivery_time: 46.360288230584466
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 80
+delivery_ratio: 0.5448658649398704
+avg_delivery_time: 256.6833616298812
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 44
+delivery_ratio: 0.6356589147286822
+avg_delivery_time: 202.2642276422764
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 211
+delivery_ratio: 0.34342105263157896
+avg_delivery_time: 44.06896551724138
+trial 1:
+congestion happened,the number of dropped packets is:: 251
+delivery_ratio: 0.3315436241610738
+avg_delivery_time: 47.40080971659919
+trial 2:
+congestion happened,the number of dropped packets is:: 225
+delivery_ratio: 0.3279569892473118
+avg_delivery_time: 40.93032786885246
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 702
+delivery_ratio: 0.3094575799721836
+avg_delivery_time: 42.04943820224719
+trial 1:
+congestion happened,the number of dropped packets is:: 676
+delivery_ratio: 0.3528252299605782
+avg_delivery_time: 34.73556797020484
+trial 2:
+congestion happened,the number of dropped packets is:: 685
+delivery_ratio: 0.32882273342354534
+avg_delivery_time: 34.31481481481482
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 199
+delivery_ratio: 0.49898373983739835
+avg_delivery_time: 237.34928716904278
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 191
+delivery_ratio: 0.4987367357251137
+avg_delivery_time: 225.75379939209728
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 267
+delivery_ratio: 0.09420289855072464
+avg_delivery_time: 21.03846153846154
+trial 1:
+congestion happened,the number of dropped packets is:: 272
+delivery_ratio: 0.10071942446043165
+avg_delivery_time: 24.428571428571427
+trial 2:
+congestion happened,the number of dropped packets is:: 275
+delivery_ratio: 0.08941605839416059
+avg_delivery_time: 29.979591836734695
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 742
+delivery_ratio: 0.07855822550831792
+avg_delivery_time: 24.270588235294117
+trial 1:
+congestion happened,the number of dropped packets is:: 673
+delivery_ratio: 0.0834862385321101
+avg_delivery_time: 30.10989010989011
+trial 2:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 178
+delivery_ratio: 0.46153846153846156
+avg_delivery_time: 232.4917840375587
+Episode 1:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 42
+delivery_ratio: 0.5740740740740741
+avg_delivery_time: 249.81545386346588
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 12
+delivery_ratio: 0.7026123936816525
+avg_delivery_time: 185.6070038910506
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 37
+delivery_ratio: 0.4290617848970252
+avg_delivery_time: 32.626666666666665
+trial 1:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.39927623642943305
+avg_delivery_time: 40.89123867069486
+trial 2:
+congestion happened,the number of dropped packets is:: 32
+delivery_ratio: 0.42775229357798167
+avg_delivery_time: 50.552278820375335
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 328
+delivery_ratio: 0.432198499711483
+avg_delivery_time: 32.55807743658211
+trial 1:
+congestion happened,the number of dropped packets is:: 336
+delivery_ratio: 0.4425287356321839
+avg_delivery_time: 34.663636363636364
+trial 2:
+congestion happened,the number of dropped packets is:: 375
+delivery_ratio: 0.4226503210741389
+avg_delivery_time: 36.29834254143646
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 78
+delivery_ratio: 0.6851792056829189
+avg_delivery_time: 205.39349670122525
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 144
+delivery_ratio: 0.7433932346723044
+avg_delivery_time: 144.31816565943834
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 186
+delivery_ratio: 0.670911528150134
+avg_delivery_time: 47.74025974025974
+trial 1:
+congestion happened,the number of dropped packets is:: 148
+delivery_ratio: 0.6702412868632708
+avg_delivery_time: 48.632
+trial 2:
+congestion happened,the number of dropped packets is:: 123
+delivery_ratio: 0.6738544474393531
+avg_delivery_time: 46.002
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 660
+delivery_ratio: 0.6300422589320015
+avg_delivery_time: 55.99573170731707
+trial 1:
+congestion happened,the number of dropped packets is:: 644
+delivery_ratio: 0.6225831399845321
+avg_delivery_time: 57.83726708074534
+trial 2:
+congestion happened,the number of dropped packets is:: 663
+delivery_ratio: 0.6465014577259475
+avg_delivery_time: 58.01352874859076
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 295
+delivery_ratio: 0.5860743272105937
+avg_delivery_time: 234.03134110787173
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 275
+delivery_ratio: 0.7201025056947609
+avg_delivery_time: 150.14590747330962
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 50
+delivery_ratio: 0.674278038952317
+avg_delivery_time: 34.582669322709165
+trial 1:
+congestion happened,the number of dropped packets is:: 75
+delivery_ratio: 0.6724949562878278
+avg_delivery_time: 35.609
+trial 2:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.6727150537634409
+avg_delivery_time: 37.422577422577426
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 541
+delivery_ratio: 0.6486486486486487
+avg_delivery_time: 44.20111111111111
+trial 1:
+congestion happened,the number of dropped packets is:: 540
+delivery_ratio: 0.658511010136316
+avg_delivery_time: 46.96496815286624
+trial 2:
+congestion happened,the number of dropped packets is:: 556
+delivery_ratio: 0.6639004149377593
+avg_delivery_time: 51.80052083333333
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 286
+delivery_ratio: 0.5873150105708245
+avg_delivery_time: 232.89416846652267
+Episode 1:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 203
+delivery_ratio: 0.6044444444444445
+avg_delivery_time: 240.7774064171123
+Episode 1:
+Epsilon: 0.6888890138149679
+congestion happened,the number of dropped packets is:: 197
+delivery_ratio: 0.7486951983298539
+avg_delivery_time: 149.392471244336
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 60
+delivery_ratio: 0.6711409395973155
+avg_delivery_time: 39.72
+trial 1:
+congestion happened,the number of dropped packets is:: 44
+delivery_ratio: 0.6700133868808568
+avg_delivery_time: 40.63136863136863
+trial 2:
+congestion happened,the number of dropped packets is:: 36
+delivery_ratio: 0.6747149564050973
+avg_delivery_time: 38.55666003976143
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 376
+delivery_ratio: 0.670911528150134
+avg_delivery_time: 43.12987012987013
+trial 1:
+congestion happened,the number of dropped packets is:: 414
+delivery_ratio: 0.646236559139785
+avg_delivery_time: 44.98890737659456
+trial 2:
+congestion happened,the number of dropped packets is:: 355
+delivery_ratio: 0.670465973851827
+avg_delivery_time: 45.091
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 115
+delivery_ratio: 0.6505202726946537
+avg_delivery_time: 219.69056811913956
+Episode 1:
+Epsilon: 0.6888890138149679
+congestion happened,the number of dropped packets is:: 195
+delivery_ratio: 0.7456163308034546
+avg_delivery_time: 151.41172341172341
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 14
+delivery_ratio: 0.5705679862306369
+avg_delivery_time: 38.7209653092006
+trial 1:
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.5812395309882747
+avg_delivery_time: 39.10806916426513
+trial 2:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.5648389904264578
+avg_delivery_time: 38.53004622496148
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 255
+delivery_ratio: 0.569371727748691
+avg_delivery_time: 44.10727969348659
+trial 1:
+congestion happened,the number of dropped packets is:: 275
+delivery_ratio: 0.58911508101371
+avg_delivery_time: 44.77856135401974
+trial 2:
+congestion happened,the number of dropped packets is:: 265
+delivery_ratio: 0.6022635408245756
+avg_delivery_time: 51.96174496644295
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 180
+delivery_ratio: 0.5910037484381507
+avg_delivery_time: 236.60535588442565
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 281
+delivery_ratio: 0.7288509231193167
+avg_delivery_time: 147.46200378071833
+Episode 2:
+Epsilon: 0.6833998328123534
+congestion happened,the number of dropped packets is:: 217
+delivery_ratio: 0.7450105042016807
+avg_delivery_time: 142.05216778286922
+Episode 3:
+Epsilon: 0.677954390507084
+congestion happened,the number of dropped packets is:: 211
+delivery_ratio: 0.7536634663971703
+avg_delivery_time: 145.38585316795172
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 34
+delivery_ratio: 0.5829858215179317
+avg_delivery_time: 42.58369098712446
+trial 1:
+congestion happened,the number of dropped packets is:: 54
+delivery_ratio: 0.5897858319604613
+avg_delivery_time: 36.62290502793296
+trial 2:
+congestion happened,the number of dropped packets is:: 28
+delivery_ratio: 0.612878200155159
+avg_delivery_time: 39.45189873417721
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 391
+delivery_ratio: 0.5659461843846493
+avg_delivery_time: 41.11145752143414
+trial 1:
+congestion happened,the number of dropped packets is:: 353
+delivery_ratio: 0.5863233431827776
+avg_delivery_time: 41.58315334773218
+trial 2:
+congestion happened,the number of dropped packets is:: 210
+delivery_ratio: 0.5819949281487743
+avg_delivery_time: 62.02251270878722
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 71
+delivery_ratio: 0.6731218697829716
+avg_delivery_time: 212.18998015873015
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 144
+delivery_ratio: 0.7412513255567338
+avg_delivery_time: 155.3837625178827
+Episode 2:
+Epsilon: 0.6833998328123534
+congestion happened,the number of dropped packets is:: 92
+delivery_ratio: 0.7585262633806323
+avg_delivery_time: 148.42664916311125
+Episode 3:
+Epsilon: 0.677954390507084
+congestion happened,the number of dropped packets is:: 38
+delivery_ratio: 0.7653184790506176
+avg_delivery_time: 151.05474683544304
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6711319490957803
+avg_delivery_time: 39.771457085828345
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6752021563342318
+avg_delivery_time: 42.04890219560878
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.6740442655935613
+avg_delivery_time: 38.56716417910448
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 294
+delivery_ratio: 0.6752107925801012
+avg_delivery_time: 41.637862137862136
+trial 1:
+congestion happened,the number of dropped packets is:: 312
+delivery_ratio: 0.6720430107526881
+avg_delivery_time: 46.1625
+trial 2:
+congestion happened,the number of dropped packets is:: 306
+delivery_ratio: 0.6749663526244953
+avg_delivery_time: 44.0827517447657
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.6497860199714693
+avg_delivery_time: 226.34412733260154
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.7581487932321473
+avg_delivery_time: 152.42074171316048
+Episode 2:
+Epsilon: 0.6833998328123534
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.7648635477582846
+avg_delivery_time: 154.48136349155783
+Episode 3:
+Epsilon: 0.6779679498660813
+congestion happened,the number of dropped packets is:: 57
+delivery_ratio: 0.7622394571013088
+avg_delivery_time: 151.82861685214627
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 43
+delivery_ratio: 0.6111975116640747
+avg_delivery_time: 50.76208651399491
+trial 1:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.5957620211898941
+avg_delivery_time: 50.42544459644323
+trial 2:
+congestion happened,the number of dropped packets is:: 24
+delivery_ratio: 0.5769881556683587
+avg_delivery_time: 48.030791788856305
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 334
+delivery_ratio: 0.596209311907705
+avg_delivery_time: 42.854872149274364
+trial 1:
+congestion happened,the number of dropped packets is:: 337
+delivery_ratio: 0.6128266033254157
+avg_delivery_time: 52.60271317829457
+trial 2:
+congestion happened,the number of dropped packets is:: 323
+delivery_ratio: 0.5825201527365295
+avg_delivery_time: 45.32629278951202
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 78
+delivery_ratio: 0.6677989130434783
+avg_delivery_time: 214.7115971515768
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 105
+delivery_ratio: 0.7611574301128003
+avg_delivery_time: 147.81701030927834
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 35
+delivery_ratio: 0.7194570135746606
+avg_delivery_time: 48.509433962264154
+trial 1:
+congestion happened,the number of dropped packets is:: 56
+delivery_ratio: 0.7132097334878331
+avg_delivery_time: 52.51015434606011
+trial 2:
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.7139588100686499
+avg_delivery_time: 51.19150641025641
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 330
+delivery_ratio: 0.6572637517630465
+avg_delivery_time: 51.67650214592275
+trial 1:
+congestion happened,the number of dropped packets is:: 350
+delivery_ratio: 0.6603317208016586
+avg_delivery_time: 53.142857142857146
+trial 2:
+congestion happened,the number of dropped packets is:: 323
+delivery_ratio: 0.660547280914444
+avg_delivery_time: 47.98007341373886
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 205
+delivery_ratio: 0.6306990881458967
+avg_delivery_time: 226.86807228915663
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 290
+delivery_ratio: 0.7283985364480721
+avg_delivery_time: 149.93469860896445
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 266
+delivery_ratio: 0.6109803921568627
+avg_delivery_time: 37.24518613607189
+trial 1:
+congestion happened,the number of dropped packets is:: 274
+delivery_ratio: 0.61198738170347
+avg_delivery_time: 37.6791237113402
+trial 2:
+congestion happened,the number of dropped packets is:: 247
+delivery_ratio: 0.5772843723313408
+avg_delivery_time: 38.63165680473373
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 732
+delivery_ratio: 0.4930662557781202
+avg_delivery_time: 37.98125
+trial 1:
+congestion happened,the number of dropped packets is:: 726
+delivery_ratio: 0.5117324013979031
+avg_delivery_time: 35.68292682926829
+trial 2:
+congestion happened,the number of dropped packets is:: 721
+delivery_ratio: 0.5458779692594318
+avg_delivery_time: 35.744027303754265
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 61
+delivery_ratio: 0.6639032815198618
+avg_delivery_time: 225.0598335067638
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 73
+delivery_ratio: 0.7588757396449705
+avg_delivery_time: 148.7267706302794
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 64
+delivery_ratio: 0.7287671232876712
+avg_delivery_time: 65.16917293233082
+trial 1:
+congestion happened,the number of dropped packets is:: 35
+delivery_ratio: 0.7005411906193626
+avg_delivery_time: 67.36309012875536
+trial 2:
+congestion happened,the number of dropped packets is:: 50
+delivery_ratio: 0.7221911682504192
+avg_delivery_time: 62.7561919504644
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 451
+delivery_ratio: 0.667818873142067
+avg_delivery_time: 55.500517598343684
+trial 1:
+congestion happened,the number of dropped packets is:: 455
+delivery_ratio: 0.6689443115818244
+avg_delivery_time: 55.2170582226762
+trial 2:
+congestion happened,the number of dropped packets is:: 478
+delivery_ratio: 0.6617647058823529
+avg_delivery_time: 55.79153439153439
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 195
+delivery_ratio: 0.6689536878216124
+avg_delivery_time: 211.54666666666665
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 37
+delivery_ratio: 0.9476
+avg_delivery_time: 120.16230476994512
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9815555555555555
+avg_delivery_time: 27.286619877745075
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9857777777777778
+avg_delivery_time: 26.16771866546438
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.984
+avg_delivery_time: 26.700090334236677
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 169
+delivery_ratio: 0.9502
+avg_delivery_time: 28.896021890128395
+trial 1:
+congestion happened,the number of dropped packets is:: 147
+delivery_ratio: 0.9548
+avg_delivery_time: 27.330749895266024
+trial 2:
+congestion happened,the number of dropped packets is:: 168
+delivery_ratio: 0.951
+avg_delivery_time: 28.75352260778128
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 198
+delivery_ratio: 0.4917440660474716
+avg_delivery_time: 244.38090241343127
+Episode 1:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 149
+delivery_ratio: 0.5613249776186213
+avg_delivery_time: 260.555023923445
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 73
+delivery_ratio: 0.821
+avg_delivery_time: 136.18562728380024
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9993333333333333
+avg_delivery_time: 25.37736268623527
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9995555555555555
+avg_delivery_time: 25.27523343708315
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9993333333333333
+avg_delivery_time: 24.870135645986213
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 126
+delivery_ratio: 0.9744
+avg_delivery_time: 26.1871921182266
+trial 1:
+congestion happened,the number of dropped packets is:: 75
+delivery_ratio: 0.9846
+avg_delivery_time: 25.56043063172862
+trial 2:
+congestion happened,the number of dropped packets is:: 70
+delivery_ratio: 0.9854
+avg_delivery_time: 25.49807184899533
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 77
+delivery_ratio: 0.6527480371163454
+avg_delivery_time: 229.07162383816294
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 20
+delivery_ratio: 0.9414
+avg_delivery_time: 125.2011897174421
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 22.45888888888889
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 22.67488888888889
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 22.57311111111111
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.9866
+avg_delivery_time: 22.538212041354146
+trial 1:
+congestion happened,the number of dropped packets is:: 61
+delivery_ratio: 0.9878
+avg_delivery_time: 22.789431058918808
+trial 2:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.992
+avg_delivery_time: 22.69657258064516
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.7772675086107922
+avg_delivery_time: 172.27769571639587
+Episode 1:
+Epsilon: 0.6894679294862909
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9941666666666666
+avg_delivery_time: 87.52724224643755
+testing_curload 100:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 18.836363636363636
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 18.669090909090908
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 18.865454545454547
+testing_curload 200:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 18.965
+trial 1:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.9975
+avg_delivery_time: 18.58813700918964
+trial 2:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 18.616666666666667
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6998320184787681
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.2962962962962963
+avg_delivery_time: 22.875
+Episode 1:
+Epsilon: 0.6996081058216567
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.375
+avg_delivery_time: 17.75
+testing_curload 10:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.2857142857142857
+avg_delivery_time: 15.25
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.23076923076923078
+avg_delivery_time: 17.333333333333332
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.25925925925925924
+avg_delivery_time: 10.285714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.18181818181818182
+avg_delivery_time: 27.25
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6997900293974522
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.3076923076923077
+avg_delivery_time: 19.625
+Episode 1:
+Epsilon: 0.699552138852228
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.4
+avg_delivery_time: 16.25
+testing_curload 10:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 26.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.35714285714285715
+avg_delivery_time: 16.8
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.16666666666666666
+avg_delivery_time: 6.75
+trial 1:
+congestion happened,the number of dropped packets is:: 2
+delivery_ratio: 0.24
+avg_delivery_time: 17.333333333333332
+Episode 0:
+Epsilon: 0.6998040254779617
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.18181818181818182
+avg_delivery_time: 27.75
+Episode 1:
+Epsilon: 0.699580121777267
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.2962962962962963
+avg_delivery_time: 15.625
+testing_curload 10:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 22.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.4117647058823529
+avg_delivery_time: 14.571428571428571
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.25925925925925924
+avg_delivery_time: 9.428571428571429
+trial 1:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.3548387096774194
+avg_delivery_time: 12.636363636363637
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6997900293974522
+congestion happened,the number of dropped packets is:: 23
+delivery_ratio: 0.09302325581395349
+avg_delivery_time: 12.5
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 2
+delivery_ratio: 0.13043478260869565
+avg_delivery_time: 14.333333333333334
+trial 1:
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 20.5
+testing_curload 30:
+trial 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6998180218383985
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.11363636363636363
+avg_delivery_time: 18.8
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.18181818181818182
+avg_delivery_time: 24.25
+trial 1:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.23076923076923078
+avg_delivery_time: 15.0
+testing_curload 30:
+trial 0:
+congestion happened,the number of dropped packets is:: 6
+delivery_ratio: 0.03225806451612903
+avg_delivery_time: 17.0
+trial 1:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.09375
+avg_delivery_time: 22.333333333333332
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 6
+delivery_ratio: 0.13953488372093023
+avg_delivery_time: 25.333333333333332
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.19148936170212766
+avg_delivery_time: 24.0
+Episode 0:
+Epsilon: 0.699734047874574
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.14847161572052403
+avg_delivery_time: 20.808823529411764
+testing_curload 200:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.18775510204081633
+avg_delivery_time: 13.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.15151515151515152
+avg_delivery_time: 15.82857142857143
+testing_curload 400:
+trial 0:
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.11261261261261261
+avg_delivery_time: 15.0
+trial 1:
+congestion happened,the number of dropped packets is:: 34
+delivery_ratio: 0.14989293361884368
+avg_delivery_time: 14.742857142857142
+Episode 0:
+Episode 0:
+Epsilon: 0.6958264496174328
+congestion happened,the number of dropped packets is:: 19
+delivery_ratio: 0.5987841945288754
+avg_delivery_time: 143.0456852791878
+Episode 1:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 63
+delivery_ratio: 0.6424079065588499
+avg_delivery_time: 170.25874125874125
+Episode 1:
+Epsilon: 0.6888890138149679
+congestion happened,the number of dropped packets is:: 48
+delivery_ratio: 0.6872556684910086
+avg_delivery_time: 163.19226393629123
+testing_curload 200:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.7640718562874251
+avg_delivery_time: 129.29780564263322
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.7525
+avg_delivery_time: 131.19269102990035
+testing_curload 400:
+trial 0:
+congestion happened,the number of dropped packets is:: 103
+delivery_ratio: 0.7388407728181212
+avg_delivery_time: 122.58791704238052
+trial 1:
+congestion happened,the number of dropped packets is:: 78
+delivery_ratio: 0.7482108002602472
+avg_delivery_time: 128.96782608695653
+Episode 0:
+Episode 0:
+Epsilon: 0.69997200028
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.052109181141439205
+avg_delivery_time: 5.809523809523809
+Episode 1:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.06188118811881188
+avg_delivery_time: 6.04
+testing_curload 200:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04950495049504951
+avg_delivery_time: 5.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04975124378109453
+avg_delivery_time: 4.4
+testing_curload 400:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.05432098765432099
+avg_delivery_time: 5.7727272727272725
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.06633906633906633
+avg_delivery_time: 5.703703703703703
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 41
+delivery_ratio: 0.5258126195028681
+avg_delivery_time: 270.73727272727274
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 58
+delivery_ratio: 0.5381750465549349
+avg_delivery_time: 246.53460207612457
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.6448126801152738
+avg_delivery_time: 178.0659217877095
+trial 1:
+congestion happened,the number of dropped packets is:: 29
+delivery_ratio: 0.6581843191196699
+avg_delivery_time: 172.30721003134795
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 537
+delivery_ratio: 0.5329540066382171
+avg_delivery_time: 169.55782918149467
+trial 1:
+congestion happened,the number of dropped packets is:: 350
+delivery_ratio: 0.5691234191016136
+avg_delivery_time: 194.19003831417623
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 79
+delivery_ratio: 0.5066666666666667
+avg_delivery_time: 243.72867513611615
+Episode 1:
+Epsilon: 0.6888890138149679
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.538961038961039
+avg_delivery_time: 244.1721170395869
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.06716417910447761
+avg_delivery_time: 9.027777777777779
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.05660377358490566
+avg_delivery_time: 12.466666666666667
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 39
+delivery_ratio: 0.04591368227731864
+avg_delivery_time: 13.88
+trial 1:
+congestion happened,the number of dropped packets is:: 22
+delivery_ratio: 0.05023255813953489
+avg_delivery_time: 21.055555555555557
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 145
+delivery_ratio: 0.48847718029823767
+avg_delivery_time: 239.88806660499537
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 95
+delivery_ratio: 0.5308695652173913
+avg_delivery_time: 249.46764946764947
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.08759124087591241
+avg_delivery_time: 37.25
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.08256880733944955
+avg_delivery_time: 24.244444444444444
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 303
+delivery_ratio: 0.0682961897915169
+avg_delivery_time: 15.736842105263158
+trial 1:
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.06445837063563116
+avg_delivery_time: 20.944444444444443
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 246
+delivery_ratio: 0.5816361753538143
+avg_delivery_time: 234.6320474777448
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 52
+delivery_ratio: 0.914
+avg_delivery_time: 130.3636761487965
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9826666666666667
+avg_delivery_time: 25.32428765264586
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9806666666666667
+avg_delivery_time: 25.048266485384094
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 84
+delivery_ratio: 0.968
+avg_delivery_time: 25.34111570247934
+trial 1:
+congestion happened,the number of dropped packets is:: 78
+delivery_ratio: 0.9844
+avg_delivery_time: 24.991670052824055
+Episode 0:
+Epsilon: 0.6873751087516569
+congestion happened,the number of dropped packets is:: 727
+delivery_ratio: 0.854
+avg_delivery_time: 241.37868852459016
+Episode 1:
+Epsilon: 0.6808214319080657
+congestion happened,the number of dropped packets is:: 507
+delivery_ratio: 0.8986
+avg_delivery_time: 102.97729801914089
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9844444444444445
+avg_delivery_time: 22.068397291196387
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.996
+avg_delivery_time: 20.868808567603747
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 609
+delivery_ratio: 0.8724
+avg_delivery_time: 21.538055937643282
+trial 1:
+congestion happened,the number of dropped packets is:: 508
+delivery_ratio: 0.8868
+avg_delivery_time: 21.76251691474966
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 58
+delivery_ratio: 0.4176503653738055
+avg_delivery_time: 143.28263795423956
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 11
+delivery_ratio: 0.49302788844621515
+avg_delivery_time: 70.4888888888889
+trial 1:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.42479908151549944
+avg_delivery_time: 68.7054054054054
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1170
+delivery_ratio: 0.3192534381139489
+avg_delivery_time: 54.864615384615384
+trial 1:
+congestion happened,the number of dropped packets is:: 1404
+delivery_ratio: 0.31868460388639763
+avg_delivery_time: 49.92120075046904
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 207
+delivery_ratio: 0.35718157181571814
+avg_delivery_time: 139.94992412746586
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.39593301435406697
+avg_delivery_time: 85.70090634441088
+trial 1:
+congestion happened,the number of dropped packets is:: 12
+delivery_ratio: 0.39166666666666666
+avg_delivery_time: 80.22796352583586
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 749
+delivery_ratio: 0.3670272286460276
+avg_delivery_time: 73.70528455284553
+trial 1:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 32
+delivery_ratio: 0.39177101967799643
+avg_delivery_time: 151.24048706240487
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 6
+delivery_ratio: 0.4128654970760234
+avg_delivery_time: 77.90084985835693
+trial 1:
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.46751863684771033
+avg_delivery_time: 77.33940774487472
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 81
+delivery_ratio: 0.2803738317757009
+avg_delivery_time: 60.61904761904762
+trial 1:
+congestion happened,the number of dropped packets is:: 151
+delivery_ratio: 0.37141280353200884
+avg_delivery_time: 80.69539375928677
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 155
+delivery_ratio: 0.35686053077357427
+avg_delivery_time: 150.68196202531647
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 222
+delivery_ratio: 0.3553408480944713
+avg_delivery_time: 146.41087613293053
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 345
+delivery_ratio: 0.3190721649484536
+avg_delivery_time: 149.45880452342487
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.3403693931398417
+avg_delivery_time: 53.86821705426357
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.34296977660972405
+avg_delivery_time: 50.87356321839081
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 265
+delivery_ratio: 0.391240157480315
+avg_delivery_time: 78.10566037735849
+trial 1:
+congestion happened,the number of dropped packets is:: 251
+delivery_ratio: 0.38052208835341367
+avg_delivery_time: 74.03693931398416
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 187
+delivery_ratio: 0.33710407239819007
+avg_delivery_time: 145.34395973154363
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 129
+delivery_ratio: 0.3254054054054054
+avg_delivery_time: 69.08637873754152
+trial 1:
+congestion happened,the number of dropped packets is:: 172
+delivery_ratio: 0.37229029217719134
+avg_delivery_time: 106.65822784810126
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1225
+delivery_ratio: 0.26634877384196187
+avg_delivery_time: 63.84526854219949
+trial 1:
+congestion happened,the number of dropped packets is:: 1616
+delivery_ratio: 0.3034634414513469
+avg_delivery_time: 82.77717391304348
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 48
+delivery_ratio: 0.3601983880967142
+avg_delivery_time: 160.6419965576592
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 31
+delivery_ratio: 0.2152777777777778
+avg_delivery_time: 81.36917562724014
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 134
+delivery_ratio: 0.19343065693430658
+avg_delivery_time: 79.4188679245283
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.1404109589041096
+avg_delivery_time: 55.5609756097561
+trial 1:
+congestion happened,the number of dropped packets is:: 28
+delivery_ratio: 0.1470113085621971
+avg_delivery_time: 69.9010989010989
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 960
+delivery_ratio: 0.08570052961001444
+avg_delivery_time: 29.825842696629213
+trial 1:
+congestion happened,the number of dropped packets is:: 1426
+delivery_ratio: 0.09182098765432099
+avg_delivery_time: 37.8235294117647
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.15397631133671744
+avg_delivery_time: 41.94505494505494
+trial 1:
+congestion happened,the number of dropped packets is:: 19
+delivery_ratio: 0.15057283142389524
+avg_delivery_time: 41.641304347826086
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 771
+delivery_ratio: 0.10115303983228512
+avg_delivery_time: 38.95336787564767
+trial 1:
+congestion happened,the number of dropped packets is:: 1109
+delivery_ratio: 0.10656807307525011
+avg_delivery_time: 47.159183673469386
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 62
+delivery_ratio: 0.3719402985074627
+avg_delivery_time: 159.85393258426967
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 132
+delivery_ratio: 0.35025906735751294
+avg_delivery_time: 64.59763313609467
+trial 1:
+congestion happened,the number of dropped packets is:: 225
+delivery_ratio: 0.3895004233700254
+avg_delivery_time: 93.65
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1015
+delivery_ratio: 0.24673328209069947
+avg_delivery_time: 51.875389408099686
+trial 1:
+congestion happened,the number of dropped packets is:: 1176
+delivery_ratio: 0.2773052058523307
+avg_delivery_time: 76.05766871165645
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 160
+delivery_ratio: 0.2920258620689655
+avg_delivery_time: 58.413284132841326
+trial 1:
+congestion happened,the number of dropped packets is:: 170
+delivery_ratio: 0.31275720164609055
+avg_delivery_time: 79.52960526315789
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 963
+delivery_ratio: 0.24922239502332816
+avg_delivery_time: 51.24804992199688
+trial 1:
+congestion happened,the number of dropped packets is:: 1193
+delivery_ratio: 0.2756883814640698
+avg_delivery_time: 68.90864799025579
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 275
+delivery_ratio: 0.3461939520333681
+avg_delivery_time: 140.12048192771084
+testing_curload 500:
+Episode 0:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 117
+delivery_ratio: 0.3574793875147232
+avg_delivery_time: 160.53047775947283
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699930002799944
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.020833333333333332
+avg_delivery_time: 6.681818181818182
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699930002799944
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.02551521099116781
+avg_delivery_time: 6.653846153846154
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699930002799944
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.03330068560235064
+avg_delivery_time: 6.588235294117647
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 24
+delivery_ratio: 0.030214424951267055
+avg_delivery_time: 6.935483870967742
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.023483365949119372
+avg_delivery_time: 5.25
+trial 1:
+congestion happened,the number of dropped packets is:: 25
+delivery_ratio: 0.032196969696969696
+avg_delivery_time: 9.588235294117647
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 133
+delivery_ratio: 0.033364226135310475
+avg_delivery_time: 6.5
+trial 1:
+congestion happened,the number of dropped packets is:: 279
+delivery_ratio: 0.036544850498338874
+avg_delivery_time: 8.090909090909092
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04483430799220273
+avg_delivery_time: 6.695652173913044
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.06285714285714286
+avg_delivery_time: 11.121212121212121
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 124
+delivery_ratio: 0.03264925373134328
+avg_delivery_time: 8.028571428571428
+trial 1:
+congestion happened,the number of dropped packets is:: 360
+delivery_ratio: 0.03877221324717286
+avg_delivery_time: 9.770833333333334
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 17
+delivery_ratio: 0.025490196078431372
+avg_delivery_time: 7.230769230769231
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 10
+delivery_ratio: 0.030303030303030304
+avg_delivery_time: 8.193548387096774
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.029411764705882353
+avg_delivery_time: 7.8
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04046242774566474
+avg_delivery_time: 10.666666666666666
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 93
+delivery_ratio: 0.025974025974025976
+avg_delivery_time: 7.785714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 114
+delivery_ratio: 0.032541776605101144
+avg_delivery_time: 9.972972972972974
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.027559055118110236
+avg_delivery_time: 8.571428571428571
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03495145631067961
+avg_delivery_time: 10.444444444444445
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 119
+delivery_ratio: 0.029438822447102116
+avg_delivery_time: 6.6875
+trial 1:
+congestion happened,the number of dropped packets is:: 128
+delivery_ratio: 0.03902862098872507
+avg_delivery_time: 8.733333333333333
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0273972602739726
+avg_delivery_time: 7.642857142857143
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03508771929824561
+avg_delivery_time: 7.722222222222222
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0444015444015444
+avg_delivery_time: 9.826086956521738
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 92
+delivery_ratio: 0.026871401151631478
+avg_delivery_time: 7.357142857142857
+trial 1:
+congestion happened,the number of dropped packets is:: 168
+delivery_ratio: 0.03155127081507449
+avg_delivery_time: 9.527777777777779
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.023715415019762844
+avg_delivery_time: 9.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04238921001926782
+avg_delivery_time: 12.954545454545455
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.028873917228103944
+avg_delivery_time: 6.966666666666667
+trial 1:
+congestion happened,the number of dropped packets is:: 69
+delivery_ratio: 0.040293040293040296
+avg_delivery_time: 10.795454545454545
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.02465483234714004
+avg_delivery_time: 7.84
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.033268101761252444
+avg_delivery_time: 7.764705882352941
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.04247104247104247
+avg_delivery_time: 10.136363636363637
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.02178217821782178
+avg_delivery_time: 5.681818181818182
+trial 1:
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.033170731707317075
+avg_delivery_time: 9.852941176470589
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.023715415019762844
+avg_delivery_time: 5.916666666666667
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03125
+avg_delivery_time: 9.0
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 5
+delivery_ratio: 0.022660098522167486
+avg_delivery_time: 6.391304347826087
+trial 1:
+congestion happened,the number of dropped packets is:: 38
+delivery_ratio: 0.02881844380403458
+avg_delivery_time: 8.2
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.0273972602739726
+avg_delivery_time: 6.357142857142857
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.041015625
+avg_delivery_time: 8.476190476190476
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.055449330783938815
+avg_delivery_time: 11.89655172413793
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 18
+delivery_ratio: 0.02044790652385589
+avg_delivery_time: 7.619047619047619
+trial 1:
+congestion happened,the number of dropped packets is:: 55
+delivery_ratio: 0.0330812854442344
+avg_delivery_time: 11.428571428571429
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0444015444015444
+avg_delivery_time: 8.08695652173913
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.057034220532319393
+avg_delivery_time: 9.733333333333333
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 33
+delivery_ratio: 0.02895752895752896
+avg_delivery_time: 7.833333333333333
+trial 1:
+congestion happened,the number of dropped packets is:: 55
+delivery_ratio: 0.038425492033739454
+avg_delivery_time: 10.609756097560975
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 15
+delivery_ratio: 0.023506366307541625
+avg_delivery_time: 7.0
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.017857142857142856
+avg_delivery_time: 6.666666666666667
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03339882121807466
+avg_delivery_time: 13.588235294117647
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 75
+delivery_ratio: 0.017975402081362345
+avg_delivery_time: 8.105263157894736
+trial 1:
+congestion happened,the number of dropped packets is:: 140
+delivery_ratio: 0.020572450805008944
+avg_delivery_time: 10.217391304347826
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.021739130434782608
+avg_delivery_time: 7.7272727272727275
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0273972602739726
+avg_delivery_time: 10.714285714285714
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 74
+delivery_ratio: 0.017045454545454544
+avg_delivery_time: 6.777777777777778
+trial 1:
+congestion happened,the number of dropped packets is:: 146
+delivery_ratio: 0.022341376228775692
+avg_delivery_time: 9.24
+Episode 0:
+Epsilon: 0.699930002799944
+congestion happened,the number of dropped packets is:: 32
+delivery_ratio: 0.02837573385518591
+avg_delivery_time: 7.827586206896552
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03143418467583497
+avg_delivery_time: 7.1875
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0444015444015444
+avg_delivery_time: 11.0
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.013270142180094787
+avg_delivery_time: 8.285714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 111
+delivery_ratio: 0.02064631956912029
+avg_delivery_time: 11.521739130434783
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.015810276679841896
+avg_delivery_time: 6.375
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.027450980392156862
+avg_delivery_time: 12.357142857142858
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 89
+delivery_ratio: 0.019924098671726755
+avg_delivery_time: 7.619047619047619
+trial 1:
+congestion happened,the number of dropped packets is:: 143
+delivery_ratio: 0.032342657342657344
+avg_delivery_time: 12.297297297297296
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.02952755905511811
+avg_delivery_time: 7.733333333333333
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03313840155945419
+avg_delivery_time: 8.235294117647058
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.05
+avg_delivery_time: 12.115384615384615
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 19
+delivery_ratio: 0.02359882005899705
+avg_delivery_time: 6.833333333333333
+trial 1:
+congestion happened,the number of dropped packets is:: 45
+delivery_ratio: 0.031309297912713474
+avg_delivery_time: 10.757575757575758
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0275049115913556
+avg_delivery_time: 5.5
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.040697674418604654
+avg_delivery_time: 9.904761904761905
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 39
+delivery_ratio: 0.02629016553067186
+avg_delivery_time: 6.2592592592592595
+trial 1:
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.033210332103321034
+avg_delivery_time: 9.527777777777779
+Episode 0:
+Epsilon: 0.699930002799944
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03232125367286973
+avg_delivery_time: 8.030303030303031
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.021696252465483234
+avg_delivery_time: 7.636363636363637
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.023483365949119372
+avg_delivery_time: 8.916666666666666
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 25
+delivery_ratio: 0.026341463414634145
+avg_delivery_time: 8.25925925925926
+trial 1:
+congestion happened,the number of dropped packets is:: 109
+delivery_ratio: 0.031221303948576674
+avg_delivery_time: 8.735294117647058
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.021611001964636542
+avg_delivery_time: 7.181818181818182
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.029354207436399216
+avg_delivery_time: 10.333333333333334
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 35
+delivery_ratio: 0.026522593320235755
+avg_delivery_time: 5.407407407407407
+trial 1:
+congestion happened,the number of dropped packets is:: 98
+delivery_ratio: 0.035422343324250684
+avg_delivery_time: 8.64102564102564
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.022988505747126436
+avg_delivery_time: 7.5
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.02186878727634195
+avg_delivery_time: 8.454545454545455
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.033073929961089495
+avg_delivery_time: 12.117647058823529
+testing_curload 1000:
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.02109300095877277
+avg_delivery_time: 7.5
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.03913894324853229
+avg_delivery_time: 8.8
+trial 1:
+congestion happened,the number of dropped packets is:: 10
+delivery_ratio: 0.05502846299810247
+avg_delivery_time: 12.137931034482758
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 43
+delivery_ratio: 0.029750479846449136
+avg_delivery_time: 7.67741935483871
+trial 1:
+congestion happened,the number of dropped packets is:: 110
+delivery_ratio: 0.03673094582185491
+avg_delivery_time: 8.75
+Episode 0:
+Epsilon: 0.6999440016799776
+congestion happened,the number of dropped packets is:: 26
+delivery_ratio: 0.027105517909002903
+avg_delivery_time: 6.178571428571429
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0273972602739726
+avg_delivery_time: 6.285714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.0425531914893617
+avg_delivery_time: 11.181818181818182
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 68
+delivery_ratio: 0.026143790849673203
+avg_delivery_time: 6.178571428571429
+trial 1:
+congestion happened,the number of dropped packets is:: 125
+delivery_ratio: 0.03511852502194908
+avg_delivery_time: 9.175
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 68
+delivery_ratio: 0.6318953323903819
+avg_delivery_time: 241.2305540011192
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.9388
+avg_delivery_time: 125.62121857690668
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.9755555555555555
+avg_delivery_time: 24.064692482915717
+trial 1:
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.9755555555555555
+avg_delivery_time: 24.064692482915717
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 108
+delivery_ratio: 0.9602
+avg_delivery_time: 23.971255988335763
+trial 1:
+congestion happened,the number of dropped packets is:: 108
+delivery_ratio: 0.9602
+avg_delivery_time: 23.971255988335763
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 23.643333333333334
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 23.643333333333334
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 110
+delivery_ratio: 0.978
+avg_delivery_time: 23.861349693251533
+trial 1:
+congestion happened,the number of dropped packets is:: 110
+delivery_ratio: 0.978
+avg_delivery_time: 23.861349693251533
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 86
+delivery_ratio: 0.6094499815430048
+avg_delivery_time: 251.04239854633556
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 50
+delivery_ratio: 0.9222
+avg_delivery_time: 128.23248752982
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9764444444444444
+avg_delivery_time: 24.123805188893947
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9764444444444444
+avg_delivery_time: 24.123805188893947
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 54
+delivery_ratio: 0.9464
+avg_delivery_time: 23.85777683854607
+trial 1:
+congestion happened,the number of dropped packets is:: 54
+delivery_ratio: 0.9464
+avg_delivery_time: 23.85777683854607
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.948
+avg_delivery_time: 25.98241912798875
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9482222222222222
+avg_delivery_time: 26.250292945863606
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 86
+delivery_ratio: 0.9254
+avg_delivery_time: 26.317700453857793
+trial 1:
+congestion happened,the number of dropped packets is:: 86
+delivery_ratio: 0.929
+avg_delivery_time: 29.1502691065662
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 88
+delivery_ratio: 0.6328805294322536
+avg_delivery_time: 232.3747936158503
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 65
+delivery_ratio: 0.9386
+avg_delivery_time: 124.66226294481142
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9271111111111111
+avg_delivery_time: 23.289309683604987
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9271111111111111
+avg_delivery_time: 23.289309683604987
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 149
+delivery_ratio: 0.8828
+avg_delivery_time: 23.23153602174898
+trial 1:
+congestion happened,the number of dropped packets is:: 149
+delivery_ratio: 0.8828
+avg_delivery_time: 23.23153602174898
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9984444444444445
+avg_delivery_time: 22.73914978855998
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9984444444444445
+avg_delivery_time: 22.73914978855998
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 76
+delivery_ratio: 0.9836
+avg_delivery_time: 23.449776331842212
+trial 1:
+congestion happened,the number of dropped packets is:: 76
+delivery_ratio: 0.9836
+avg_delivery_time: 23.449776331842212
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 285
+delivery_ratio: 0.6350279165442256
+avg_delivery_time: 212.090236001851
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 85
+delivery_ratio: 0.962
+avg_delivery_time: 114.53305613305614
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9017777777777778
+avg_delivery_time: 20.680137999014292
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9053333333333333
+avg_delivery_time: 22.6340206185567
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 126
+delivery_ratio: 0.8966
+avg_delivery_time: 20.749721168860138
+trial 1:
+congestion happened,the number of dropped packets is:: 126
+delivery_ratio: 0.898
+avg_delivery_time: 21.657906458797328
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 20.313333333333333
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 20.313333333333333
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 56
+delivery_ratio: 0.9888
+avg_delivery_time: 20.088187702265373
+trial 1:
+congestion happened,the number of dropped packets is:: 56
+delivery_ratio: 0.9888
+avg_delivery_time: 20.088187702265373
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 401
+delivery_ratio: 0.5995239512049985
+avg_delivery_time: 208.72803970223325
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 179
+delivery_ratio: 0.9282
+avg_delivery_time: 118.60461107519932
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.848466443972062
+avg_delivery_time: 23.36972083035075
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.848714069591528
+avg_delivery_time: 23.83921568627451
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.851
+avg_delivery_time: 22.131374853113982
+trial 1:
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.8572
+avg_delivery_time: 26.431871208586095
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9995555555555555
+avg_delivery_time: 20.896843041351712
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.9995555555555555
+avg_delivery_time: 20.896843041351712
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 115
+delivery_ratio: 0.9768
+avg_delivery_time: 21.4987714987715
+trial 1:
+congestion happened,the number of dropped packets is:: 115
+delivery_ratio: 0.9768
+avg_delivery_time: 21.4987714987715
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 342
+delivery_ratio: 0.5699032365699033
+avg_delivery_time: 233.0831381733021
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 224
+delivery_ratio: 0.9016
+avg_delivery_time: 127.58141082519964
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 65
+delivery_ratio: 0.1109229466553768
+avg_delivery_time: 33.80916030534351
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.12764084507042253
+avg_delivery_time: 34.02068965517241
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 325
+delivery_ratio: 0.08904593639575972
+avg_delivery_time: 34.007936507936506
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 84
+delivery_ratio: 0.11677631578947369
+avg_delivery_time: 31.908450704225352
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.10235507246376811
+avg_delivery_time: 31.82300884955752
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.09845890410958905
+avg_delivery_time: 30.765217391304347
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 49
+delivery_ratio: 0.09532215357458076
+avg_delivery_time: 34.24074074074074
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 9
+delivery_ratio: 0.11494252873563218
+avg_delivery_time: 33.6
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 26
+delivery_ratio: 0.10683012259194395
+avg_delivery_time: 33.59016393442623
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.1201067615658363
+avg_delivery_time: 40.58518518518518
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 94
+delivery_ratio: 0.10780984719864177
+avg_delivery_time: 33.04724409448819
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 8
+delivery_ratio: 0.11298932384341637
+avg_delivery_time: 37.22834645669291
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 54
+delivery_ratio: 0.11769686706181202
+avg_delivery_time: 33.63309352517986
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 31
+delivery_ratio: 0.10254163014899212
+avg_delivery_time: 36.0
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 83
+delivery_ratio: 0.11074104912572856
+avg_delivery_time: 40.150375939849624
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.11936339522546419
+avg_delivery_time: 31.05185185185185
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 93
+delivery_ratio: 0.04662379421221865
+avg_delivery_time: 15.862068965517242
+trial 1:
+congestion happened,the number of dropped packets is:: 104
+delivery_ratio: 0.05329153605015674
+avg_delivery_time: 20.323529411764707
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 950
+delivery_ratio: 0.041343669250646
+avg_delivery_time: 16.4
+trial 1:
+congestion happened,the number of dropped packets is:: 1160
+delivery_ratio: 0.04199353945546839
+avg_delivery_time: 18.175824175824175
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 147
+delivery_ratio: 0.05239520958083832
+avg_delivery_time: 22.285714285714285
+trial 1:
+congestion happened,the number of dropped packets is:: 165
+delivery_ratio: 0.05555555555555555
+avg_delivery_time: 23.923076923076923
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1114
+delivery_ratio: 0.035576923076923075
+avg_delivery_time: 13.635135135135135
+trial 1:
+congestion happened,the number of dropped packets is:: 1367
+delivery_ratio: 0.039190897597977246
+avg_delivery_time: 17.9247311827957
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.10649819494584838
+avg_delivery_time: 38.02542372881356
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.11764705882352941
+avg_delivery_time: 33.63636363636363
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 39
+delivery_ratio: 0.11495246326707001
+avg_delivery_time: 34.330827067669176
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 36
+delivery_ratio: 0.04830053667262969
+avg_delivery_time: 20.88888888888889
+trial 1:
+congestion happened,the number of dropped packets is:: 64
+delivery_ratio: 0.05378151260504202
+avg_delivery_time: 26.6875
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 377
+delivery_ratio: 0.03398409255242227
+avg_delivery_time: 21.0
+trial 1:
+congestion happened,the number of dropped packets is:: 490
+delivery_ratio: 0.041474654377880185
+avg_delivery_time: 35.12698412698413
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.051233396584440226
+avg_delivery_time: 18.37037037037037
+trial 1:
+congestion happened,the number of dropped packets is:: 7
+delivery_ratio: 0.05762081784386617
+avg_delivery_time: 27.774193548387096
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 409
+delivery_ratio: 0.03551136363636364
+avg_delivery_time: 13.42
+trial 1:
+congestion happened,the number of dropped packets is:: 556
+delivery_ratio: 0.04740834386852086
+avg_delivery_time: 31.52
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 178
+delivery_ratio: 0.6183333333333333
+avg_delivery_time: 229.29380053908355
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 91
+delivery_ratio: 0.9354
+avg_delivery_time: 124.93564250587984
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 1528
+delivery_ratio: 0.014478282576135796
+avg_delivery_time: 11.793103448275861
+trial 1:
+congestion happened,the number of dropped packets is:: 1568
+delivery_ratio: 0.014691478942213516
+avg_delivery_time: 29.066666666666666
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 4216
+delivery_ratio: 0.0176
+avg_delivery_time: 17.477272727272727
+trial 1:
+congestion happened,the number of dropped packets is:: 4274
+delivery_ratio: 0.0178
+avg_delivery_time: 25.213483146067414
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 1465
+delivery_ratio: 0.0292781423523473
+avg_delivery_time: 13.120689655172415
+trial 1:
+congestion happened,the number of dropped packets is:: 1468
+delivery_ratio: 0.029233870967741934
+avg_delivery_time: 13.120689655172415
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 4230
+delivery_ratio: 0.02
+avg_delivery_time: 16.21
+trial 1:
+congestion happened,the number of dropped packets is:: 4242
+delivery_ratio: 0.0206
+avg_delivery_time: 29.74757281553398
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 93
+delivery_ratio: 0.09257714762301918
+avg_delivery_time: 32.08108108108108
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 100
+delivery_ratio: 0.0416
+avg_delivery_time: 12.153846153846153
+trial 1:
+congestion happened,the number of dropped packets is:: 116
+delivery_ratio: 0.06564885496183206
+avg_delivery_time: 41.04651162790697
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 369
+delivery_ratio: 0.03369175627240143
+avg_delivery_time: 16.872340425531913
+trial 1:
+congestion happened,the number of dropped packets is:: 537
+delivery_ratio: 0.035737077217613274
+avg_delivery_time: 27.214285714285715
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 34
+delivery_ratio: 0.044722719141323794
+avg_delivery_time: 22.0
+trial 1:
+congestion happened,the number of dropped packets is:: 35
+delivery_ratio: 0.0481283422459893
+avg_delivery_time: 24.0
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 464
+delivery_ratio: 0.04414715719063545
+avg_delivery_time: 15.484848484848484
+trial 1:
+congestion happened,the number of dropped packets is:: 528
+delivery_ratio: 0.0493046776232617
+avg_delivery_time: 23.67948717948718
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 10
+delivery_ratio: 0.11484098939929328
+avg_delivery_time: 34.37692307692308
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 346
+delivery_ratio: 0.04844290657439446
+avg_delivery_time: 13.666666666666666
+trial 1:
+Episode 0:
+Epsilon: 0.6994402183446821
+congestion happened,the number of dropped packets is:: 148
+delivery_ratio: 0.096045197740113
+avg_delivery_time: 32.89915966386555
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 36
+delivery_ratio: 0.06631762652705062
+avg_delivery_time: 22.026315789473685
+trial 1:
+congestion happened,the number of dropped packets is:: 50
+delivery_ratio: 0.09274873524451939
+avg_delivery_time: 44.72727272727273
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 313
+delivery_ratio: 0.05118694362017804
+avg_delivery_time: 22.159420289855074
+trial 1:
+congestion happened,the number of dropped packets is:: 662
+delivery_ratio: 0.05506736965436438
+avg_delivery_time: 25.71276595744681
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.08775137111517367
+avg_delivery_time: 28.979166666666668
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.1166077738515901
+avg_delivery_time: 45.878787878787875
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 379
+delivery_ratio: 0.04853675945753034
+avg_delivery_time: 21.13235294117647
+trial 1:
+congestion happened,the number of dropped packets is:: 500
+delivery_ratio: 0.0653138871274572
+avg_delivery_time: 38.300970873786405
+Episode 0:
+Epsilon: 0.6994542074288307
+congestion happened,the number of dropped packets is:: 38
+delivery_ratio: 0.10899653979238755
+avg_delivery_time: 34.214285714285715
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 1077
+delivery_ratio: 0.01856763925729443
+avg_delivery_time: 12.035714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 1789
+delivery_ratio: 0.021982951996410947
+avg_delivery_time: 15.653061224489797
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 3506
+delivery_ratio: 0.016727272727272726
+avg_delivery_time: 10.26086956521739
+trial 1:
+congestion happened,the number of dropped packets is:: 4518
+delivery_ratio: 0.0228
+avg_delivery_time: 13.736842105263158
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 969
+delivery_ratio: 0.023960535588442564
+avg_delivery_time: 14.176470588235293
+trial 1:
+congestion happened,the number of dropped packets is:: 1620
+delivery_ratio: 0.02484169508037019
+avg_delivery_time: 14.96078431372549
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 3654
+delivery_ratio: 0.017543859649122806
+avg_delivery_time: 8.973333333333333
+trial 1:
+congestion happened,the number of dropped packets is:: 4575
+delivery_ratio: 0.0196
+avg_delivery_time: 11.040816326530612
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 443
+delivery_ratio: 0.5515035188739603
+avg_delivery_time: 222.20127610208817
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 69
+delivery_ratio: 0.898
+avg_delivery_time: 130.31469933184854
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.06735751295336788
+avg_delivery_time: 17.102564102564102
+trial 1:
+congestion happened,the number of dropped packets is:: 46
+delivery_ratio: 0.0730050933786078
+avg_delivery_time: 85.3953488372093
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 2308
+delivery_ratio: 0.0582263362197671
+avg_delivery_time: 22.861538461538462
+trial 1:
+congestion happened,the number of dropped packets is:: 3501
+delivery_ratio: 0.06742308531529566
+avg_delivery_time: 44.74757281553398
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 189
+delivery_ratio: 0.08788282290279627
+avg_delivery_time: 31.87878787878788
+trial 1:
+congestion happened,the number of dropped packets is:: 194
+delivery_ratio: 0.08959156785243742
+avg_delivery_time: 44.38235294117647
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1893
+delivery_ratio: 0.08704253214638971
+avg_delivery_time: 27.606060606060606
+trial 1:
+congestion happened,the number of dropped packets is:: 1941
+delivery_ratio: 0.08713961775186264
+avg_delivery_time: 31.312267657992564
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 60
+delivery_ratio: 0.3429286608260325
+avg_delivery_time: 155.08029197080293
+testing_curload 500:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.697205564652196
+congestion happened,the number of dropped packets is:: 11
+delivery_ratio: 0.39721886336154777
+avg_delivery_time: 142.78995433789953
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 109
+delivery_ratio: 0.3545258620689655
+avg_delivery_time: 60.17933130699088
+trial 1:
+congestion happened,the number of dropped packets is:: 194
+delivery_ratio: 0.37637362637362637
+avg_delivery_time: 87.57664233576642
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1118
+delivery_ratio: 0.28950159066808057
+avg_delivery_time: 65.2063492063492
+trial 1:
+congestion happened,the number of dropped packets is:: 1921
+delivery_ratio: 0.3166833166833167
+avg_delivery_time: 79.40851735015772
+testing_curload 500:
+trial 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 166
+delivery_ratio: 0.3576601671309192
+avg_delivery_time: 148.41744548286604
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6982242384142548
+congestion happened,the number of dropped packets is:: 2
+delivery_ratio: 0.7083333333333334
+avg_delivery_time: 89.23529411764706
+testing_curload 10:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 23.0
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.16666666666666666
+avg_delivery_time: 220.0
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.15384615384615385
+avg_delivery_time: 65.25
+trial 1:
+congestion happened,the number of dropped packets is:: 3
+delivery_ratio: 0.21428571428571427
+avg_delivery_time: 132.33333333333334
+testing_curload 10:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6985315277507576
+congestion happened,the number of dropped packets is:: 51
+delivery_ratio: 0.45
+avg_delivery_time: 70.8
+testing_curload 20:
+trial 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 32
+delivery_ratio: 0.64
+avg_delivery_time: 75.5625
+testing_curload 20:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6985874130672156
+congestion happened,the number of dropped packets is:: 38
+delivery_ratio: 0.56
+avg_delivery_time: 69.92857142857143
+testing_curload 20:
+trial 0:
+Episode 0:
+Epsilon: 0.6991884626672533
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.34
+avg_delivery_time: 67.0
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 8
+delivery_ratio: 0.3157894736842105
+avg_delivery_time: 15.0
+trial 1:
+congestion happened,the number of dropped packets is:: 10
+delivery_ratio: 0.3
+avg_delivery_time: 15.0
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.16
+avg_delivery_time: 13.875
+trial 1:
+congestion happened,the number of dropped packets is:: 67
+delivery_ratio: 0.16
+avg_delivery_time: 13.875
+testing_curload 20:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6984756469049908
+congestion happened,the number of dropped packets is:: 45
+delivery_ratio: 0.47
+avg_delivery_time: 63.638297872340424
+testing_curload 20:
+trial 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6984756469049908
+congestion happened,the number of dropped packets is:: 42
+delivery_ratio: 0.54
+avg_delivery_time: 71.72222222222223
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.4666666666666667
+avg_delivery_time: 15.666666666666666
+trial 1:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.4666666666666667
+avg_delivery_time: 15.666666666666666
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 55
+delivery_ratio: 0.25
+avg_delivery_time: 22.76
+trial 1:
+congestion happened,the number of dropped packets is:: 55
+delivery_ratio: 0.25
+avg_delivery_time: 22.76
+testing_curload 20:
+trial 0:
+Episode 0:
+Epsilon: 0.6986433028547224
+congestion happened,the number of dropped packets is:: 44
+delivery_ratio: 0.51
+avg_delivery_time: 72.13725490196079
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 31
+delivery_ratio: 0.22950819672131148
+avg_delivery_time: 15.285714285714286
+trial 1:
+congestion happened,the number of dropped packets is:: 33
+delivery_ratio: 0.2222222222222222
+avg_delivery_time: 15.285714285714286
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 80
+delivery_ratio: 0.09
+avg_delivery_time: 45.22222222222222
+trial 1:
+congestion happened,the number of dropped packets is:: 80
+delivery_ratio: 0.09
+avg_delivery_time: 45.22222222222222
+testing_curload 20:
+trial 0:
+Episode 0:
+Epsilon: 0.698671249425231
+congestion happened,the number of dropped packets is:: 46
+delivery_ratio: 0.52
+avg_delivery_time: 75.17307692307692
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.1125
+avg_delivery_time: 23.666666666666668
+trial 1:
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.1375
+avg_delivery_time: 65.45454545454545
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 83
+delivery_ratio: 0.08
+avg_delivery_time: 19.25
+trial 1:
+congestion happened,the number of dropped packets is:: 83
+delivery_ratio: 0.08
+avg_delivery_time: 19.25
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.525
+avg_delivery_time: 27.952380952380953
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 0.525
+avg_delivery_time: 27.952380952380953
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 60
+delivery_ratio: 0.24
+avg_delivery_time: 19.208333333333332
+trial 1:
+congestion happened,the number of dropped packets is:: 61
+delivery_ratio: 0.24
+avg_delivery_time: 19.208333333333332
+Episode 0:
+Epsilon: 0.698671249425231
+congestion happened,the number of dropped packets is:: 51
+delivery_ratio: 0.47
+avg_delivery_time: 72.40425531914893
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.05
+avg_delivery_time: 18.75
+trial 1:
+congestion happened,the number of dropped packets is:: 66
+delivery_ratio: 0.0625
+avg_delivery_time: 70.0
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 80
+delivery_ratio: 0.09
+avg_delivery_time: 21.0
+trial 1:
+congestion happened,the number of dropped packets is:: 82
+delivery_ratio: 0.11
+avg_delivery_time: 80.72727272727273
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 4
+delivery_ratio: 0.14814814814814814
+avg_delivery_time: 56.5
+trial 1:
+congestion happened,the number of dropped packets is:: 11
+delivery_ratio: 0.21621621621621623
+avg_delivery_time: 149.0
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 56
+delivery_ratio: 0.28
+avg_delivery_time: 28.285714285714285
+trial 1:
+congestion happened,the number of dropped packets is:: 56
+delivery_ratio: 0.28
+avg_delivery_time: 28.285714285714285
+Episode 0:
+Epsilon: 0.6986991971136359
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.58
+avg_delivery_time: 91.91379310344827
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 14
+delivery_ratio: 0.1951219512195122
+avg_delivery_time: 15.375
+trial 1:
+congestion happened,the number of dropped packets is:: 23
+delivery_ratio: 0.22641509433962265
+avg_delivery_time: 14.916666666666666
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 72
+delivery_ratio: 0.19
+avg_delivery_time: 15.842105263157896
+trial 1:
+congestion happened,the number of dropped packets is:: 72
+delivery_ratio: 0.19
+avg_delivery_time: 15.842105263157896
+testing_curload 20:
+trial 0:
+congestion happened,the number of dropped packets is:: 40
+delivery_ratio: 0.21428571428571427
+avg_delivery_time: 13.0
+trial 1:
+congestion happened,the number of dropped packets is:: 49
+delivery_ratio: 0.21052631578947367
+avg_delivery_time: 13.6875
+testing_curload 40:
+trial 0:
+congestion happened,the number of dropped packets is:: 57
+delivery_ratio: 0.31
+avg_delivery_time: 27.161290322580644
+trial 1:
+congestion happened,the number of dropped packets is:: 57
+delivery_ratio: 0.31
+avg_delivery_time: 27.161290322580644
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 646
+delivery_ratio: 0.5211608222490931
+avg_delivery_time: 213.01566125290023
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 485
+delivery_ratio: 0.8666
+avg_delivery_time: 121.0655435033464
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 284
+delivery_ratio: 0.07482185273159145
+avg_delivery_time: 21.49206349206349
+trial 1:
+congestion happened,the number of dropped packets is:: 460
+delivery_ratio: 0.08533077660594439
+avg_delivery_time: 80.7752808988764
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 3988
+delivery_ratio: 0.0782
+avg_delivery_time: 28.964194373401533
+trial 1:
+congestion happened,the number of dropped packets is:: 4050
+delivery_ratio: 0.0818
+avg_delivery_time: 58.15647921760391
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 1115
+delivery_ratio: 0.10472972972972973
+avg_delivery_time: 44.704301075268816
+trial 1:
+congestion happened,the number of dropped packets is:: 1455
+delivery_ratio: 0.12460209185993633
+avg_delivery_time: 96.01459854014598
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 4331
+delivery_ratio: 0.0614
+avg_delivery_time: 29.04560260586319
+trial 1:
+congestion happened,the number of dropped packets is:: 4350
+delivery_ratio: 0.0616
+avg_delivery_time: 30.876623376623378
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 436
+delivery_ratio: 0.5287975749410576
+avg_delivery_time: 227.3184713375796
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 194
+delivery_ratio: 0.8924
+avg_delivery_time: 126.72568354997759
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 788
+delivery_ratio: 0.0533033033033033
+avg_delivery_time: 18.830985915492956
+trial 1:
+congestion happened,the number of dropped packets is:: 1912
+delivery_ratio: 0.05573376102646351
+avg_delivery_time: 60.02877697841727
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1071
+delivery_ratio: 0.038991916310033285
+avg_delivery_time: 21.121951219512194
+trial 1:
+congestion happened,the number of dropped packets is:: 1140
+delivery_ratio: 0.04218248509857864
+avg_delivery_time: 92.90217391304348
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 4143
+delivery_ratio: 0.036
+avg_delivery_time: 15.104938271604938
+trial 1:
+congestion happened,the number of dropped packets is:: 4144
+delivery_ratio: 0.036
+avg_delivery_time: 15.104938271604938
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 4506
+delivery_ratio: 0.0396
+avg_delivery_time: 17.732323232323232
+trial 1:
+congestion happened,the number of dropped packets is:: 4507
+delivery_ratio: 0.04
+avg_delivery_time: 24.535
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 200
+delivery_ratio: 0.5908455625436757
+avg_delivery_time: 238.34535777646363
+Episode 1:
+Epsilon: 0.6889027918708054
+congestion happened,the number of dropped packets is:: 148
+delivery_ratio: 0.8912
+avg_delivery_time: 130.92908438061042
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 75
+delivery_ratio: 0.6253137325206167
+avg_delivery_time: 247.76032110091742
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 732
+delivery_ratio: 0.06682027649769585
+avg_delivery_time: 22.091954022988507
+trial 1:
+congestion happened,the number of dropped packets is:: 943
+delivery_ratio: 0.07717250324254216
+avg_delivery_time: 76.70588235294117
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1755
+delivery_ratio: 0.05201698513800425
+avg_delivery_time: 22.31972789115646
+trial 1:
+congestion happened,the number of dropped packets is:: 2003
+delivery_ratio: 0.05895618556701031
+avg_delivery_time: 80.04371584699453
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 336
+delivery_ratio: 0.06892655367231638
+avg_delivery_time: 54.19672131147541
+trial 1:
+congestion happened,the number of dropped packets is:: 555
+delivery_ratio: 0.07712765957446809
+avg_delivery_time: 133.86206896551724
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 2390
+delivery_ratio: 0.0371562317144529
+avg_delivery_time: 26.519685039370078
+trial 1:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 391
+delivery_ratio: 0.5805951642901426
+avg_delivery_time: 222.29791777896423
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 259
+delivery_ratio: 0.6147074054893837
+avg_delivery_time: 45.24262847514743
+trial 1:
+congestion happened,the number of dropped packets is:: 292
+delivery_ratio: 0.6138957816377171
+avg_delivery_time: 51.84721099434115
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 745
+delivery_ratio: 0.7038
+avg_delivery_time: 50.966183574879224
+trial 1:
+congestion happened,the number of dropped packets is:: 795
+delivery_ratio: 0.7146
+avg_delivery_time: 60.52896725440806
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 415
+delivery_ratio: 0.09471585244267199
+avg_delivery_time: 40.49473684210526
+trial 1:
+congestion happened,the number of dropped packets is:: 530
+delivery_ratio: 0.13231552162849872
+avg_delivery_time: 145.08333333333334
+testing_curload 1000:
+trial 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 64
+delivery_ratio: 0.6252245777937477
+avg_delivery_time: 248.27011494252875
+testing_curload 500:
+trial 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 30
+delivery_ratio: 0.6179014667168108
+avg_delivery_time: 254.53377967133292
+testing_curload 500:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6972195090423768
+congestion happened,the number of dropped packets is:: 789
+delivery_ratio: 0.2605932203389831
+avg_delivery_time: 128.65853658536585
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 21
+delivery_ratio: 0.2803867403314917
+avg_delivery_time: 48.645320197044335
+trial 1:
+congestion happened,the number of dropped packets is:: 21
+delivery_ratio: 0.2813793103448276
+avg_delivery_time: 50.044117647058826
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 209
+delivery_ratio: 0.2448080553807426
+avg_delivery_time: 54.760925449871465
+trial 1:
+congestion happened,the number of dropped packets is:: 233
+delivery_ratio: 0.25743776563448695
+avg_delivery_time: 71.70283018867924
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 217
+delivery_ratio: 0.683737646001797
+avg_delivery_time: 82.82063074901446
+trial 1:
+Episode 0:
+Episode 0:
+Epsilon: 0.6991185466176845
+delivery_ratio: 0.4
+avg_delivery_time: 78.11111111111111
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.2072992700729927
+avg_delivery_time: 88.14788732394366
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 216
+delivery_ratio: 0.14475271411338964
+avg_delivery_time: 43.06666666666667
+trial 1:
+congestion happened,the number of dropped packets is:: 318
+delivery_ratio: 0.15631469979296067
+avg_delivery_time: 54.66887417218543
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1293
+delivery_ratio: 0.08948004836759371
+avg_delivery_time: 32.391891891891895
+trial 1:
+congestion happened,the number of dropped packets is:: 2034
+delivery_ratio: 0.10196779964221825
+avg_delivery_time: 48.567251461988306
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.23485415108451757
+avg_delivery_time: 78.27388535031847
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 111
+delivery_ratio: 0.20184696569920843
+avg_delivery_time: 45.248366013071895
+trial 1:
+congestion happened,the number of dropped packets is:: 237
+delivery_ratio: 0.22923238696109358
+avg_delivery_time: 53.12844036697248
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1579
+delivery_ratio: 0.12762297901616787
+avg_delivery_time: 32.98382749326146
+trial 1:
+congestion happened,the number of dropped packets is:: 3095
+delivery_ratio: 0.15115303983228512
+avg_delivery_time: 39.156726768377254
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 82
+avg_delivery_time: 244.08
+testing_curload 500:
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 58
+avg_delivery_time: 62.583090379008745
+testing_curload 200:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 12
+avg_delivery_time: 74.82310469314079
+testing_curload 200:
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 34
+avg_delivery_time: 67.8721590909091
+testing_curload 200:
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 109
+avg_delivery_time: 62.85840707964602
+testing_curload 200:
+trial 0:
+delivery_ratio: 0.8915441176470589
+trial 1:
+delivery_ratio: 0.9438860971524288
+testing_curload 400:
+trial 0:
+delivery_ratio: 0.8674873280231716
+trial 1:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 661
+avg_delivery_time: 47.71672354948805
+testing_curload 200:
+trial 0:
+delivery_ratio: 0.5817307692307693
+trial 1:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 57
+avg_delivery_time: 69.57055214723927
+testing_curload 200:
+trial 0:
+delivery_ratio: 0.8132295719844358
+testing_curload 400:
+trial 0:
+delivery_ratio: 0.6192626034612491
+testing_curload 200:
+trial 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 43
+avg_delivery_time: 61.92138364779874
+testing_curload 200:
+trial 0:
+delivery_ratio: 0.8821490467937608
+testing_curload 400:
+trial 0:
+delivery_ratio: 0.5903890160183066
+testing_curload 200:
+trial 0:
+delivery_ratio: 1.0
+testing_curload 400:
+trial 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+delivery_ratio: 0.9691954022988506
+avg_delivery_time: 219.196394686907
+Episode 1:
+Episode 0:
+Episode 0:
+Epsilon: 0.6944361735548819
+congestion happened,the number of dropped packets is:: 669
+avg_delivery_time: 206.02331743508213
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 85
+avg_delivery_time: 228.81495685522532
+Episode 0:
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 223
+avg_delivery_time: 243.10651558073656
+Episode 0:
+Episode 0:
+Epsilon: 0.6944222848314108
+congestion happened,the number of dropped packets is:: 150
+avg_delivery_time: 234.56655665566558
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986991971136359
+delivery_ratio: 1.0
+avg_delivery_time: 2.0
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 6.0
+trial 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 358
+avg_delivery_time: 76.4030303030303
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 89
+avg_delivery_time: 81.79359430604983
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 0
+avg_delivery_time: 80.46994535519126
+Episode 0:
+Epsilon: 0.6986013850949175
+congestion happened,the number of dropped packets is:: 108
+avg_delivery_time: 83.11666666666666
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 106
+avg_delivery_time: 78.94155844155844
+Episode 0:
+Epsilon: 0.6986153574020656
+congestion happened,the number of dropped packets is:: 77
+avg_delivery_time: 77.94212218649518
+Episode 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.21991404011461319
+avg_delivery_time: 59.04885993485342
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.2017139090309822
+avg_delivery_time: 57.39869281045752
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.20248254460822343
+avg_delivery_time: 62.111111111111114
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 663
+delivery_ratio: 0.37156398104265403
+avg_delivery_time: 68.94897959183673
+trial 0:
+congestion happened,the number of dropped packets is:: 44
+delivery_ratio: 0.9879054425508521
+avg_delivery_time: 17.5740122426266
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 2936
+delivery_ratio: 0.2658164541135284
+avg_delivery_time: 47.505174035747885
+trial 0:
+congestion happened,the number of dropped packets is:: 1075
+delivery_ratio: 0.7843963096670677
+avg_delivery_time: 25.034006647916133
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.5040128410914928
+avg_delivery_time: 71.02229299363057
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 242
+delivery_ratio: 0.6299694189602446
+avg_delivery_time: 96.70631067961165
+trial 0:
+congestion happened,the number of dropped packets is:: 11
+delivery_ratio: 0.9973740749582239
+avg_delivery_time: 16.415509813307803
+trial 1:
+congestion happened,the number of dropped packets is:: 364
+delivery_ratio: 0.6773049645390071
+avg_delivery_time: 72.23952879581152
+trial 1:
+congestion happened,the number of dropped packets is:: 23
+delivery_ratio: 0.9944578313253012
+avg_delivery_time: 16.39496001938454
+testing_curload 1000:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.5591182364729459
+avg_delivery_time: 75.23297491039426
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 392
+delivery_ratio: 0.4122938530734633
+avg_delivery_time: 82.43272727272728
+trial 0:
+congestion happened,the number of dropped packets is:: 44
+delivery_ratio: 0.9904555314533623
+avg_delivery_time: 17.90144546649146
+trial 1:
+congestion happened,the number of dropped packets is:: 147
+delivery_ratio: 0.7935393258426966
+avg_delivery_time: 90.270796460177
+trial 1:
+congestion happened,the number of dropped packets is:: 100
+delivery_ratio: 0.9790619765494137
+avg_delivery_time: 17.550684345594526
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 2033
+delivery_ratio: 0.5100024102193299
+avg_delivery_time: 52.619565217391305
+trial 0:
+congestion happened,the number of dropped packets is:: 1943
+delivery_ratio: 0.7543926178738466
+avg_delivery_time: 20.33059651474531
+trial 1:
+congestion happened,the number of dropped packets is:: 1142
+delivery_ratio: 0.7085247575293517
+avg_delivery_time: 48.31051873198847
+trial 1:
+congestion happened,the number of dropped packets is:: 1705
+delivery_ratio: 0.770463112547119
+avg_delivery_time: 20.809715184343876
+Episode 0:
+Epsilon: 0.6972195090423768
+delivery_ratio: 0.6932038834951456
+avg_delivery_time: 133.11624649859945
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6972195090423768
+delivery_ratio: 0.3463180362860192
+avg_delivery_time: 111.1864406779661
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6972195090423768
+delivery_ratio: 0.5007473841554559
+avg_delivery_time: 122.17164179104478
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.2066869300911854
+avg_delivery_time: 64.875
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.3310502283105023
+avg_delivery_time: 70.83103448275862
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 402
+delivery_ratio: 0.08636363636363636
+avg_delivery_time: 36.578947368421055
+trial 0:
+congestion happened,the number of dropped packets is:: 106
+delivery_ratio: 0.9733802109492717
+avg_delivery_time: 17.683952528379773
+congestion happened,the number of dropped packets is:: 872
+delivery_ratio: 0.07430997876857749
+avg_delivery_time: 31.085714285714285
+trial 1:
+congestion happened,the number of dropped packets is:: 132
+delivery_ratio: 0.9675036927621861
+avg_delivery_time: 17.334351145038166
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 3321
+delivery_ratio: 0.04183496826312753
+avg_delivery_time: 21.620689655172413
+trial 0:
+congestion happened,the number of dropped packets is:: 748
+delivery_ratio: 0.8641235240690281
+avg_delivery_time: 22.697918856422113
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.4141689373297003
+avg_delivery_time: 69.83552631578948
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.3129251700680272
+avg_delivery_time: 68.8768115942029
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.3036750483558994
+avg_delivery_time: 62.952229299363054
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 11.5
+trial 0:
+congestion happened,the number of dropped packets is:: 166
+delivery_ratio: 0.9626714639082528
+avg_delivery_time: 16.765241765942537
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 11.666666666666666
+trial 1:
+congestion happened,the number of dropped packets is:: 160
+delivery_ratio: 0.963142133149044
+avg_delivery_time: 17.124850514231046
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 21.5
+trial 0:
+congestion happened,the number of dropped packets is:: 2087
+delivery_ratio: 0.731091354206932
+avg_delivery_time: 20.401480437081425
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 9.714285714285714
+trial 1:
+congestion happened,the number of dropped packets is:: 1987
+delivery_ratio: 0.7409724938078477
+avg_delivery_time: 20.29996481351161
+Episode 0:
+Epsilon: 0.697205564652196
+delivery_ratio: 0.4832992501704158
+avg_delivery_time: 127.49929478138223
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 9.833333333333334
+trial 0:
+congestion happened,the number of dropped packets is:: 146
+delivery_ratio: 0.9892011834319526
+avg_delivery_time: 13.738148646627785
+Episode 0:
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.592
+avg_delivery_time: 78.91554054054055
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 15.333333333333334
+trial 0:
+congestion happened,the number of dropped packets is:: 223
+delivery_ratio: 0.9632861376358248
+avg_delivery_time: 15.017945650316186
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 6.0
+trial 1:
+congestion happened,the number of dropped packets is:: 218
+delivery_ratio: 0.9640679083566837
+avg_delivery_time: 15.078645922379893
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 36
+delivery_ratio: 0.18181818181818182
+avg_delivery_time: 12.25
+trial 0:
+congestion happened,the number of dropped packets is:: 5263
+delivery_ratio: 0.6076779724189341
+avg_delivery_time: 15.74018645731109
+congestion happened,the number of dropped packets is:: 112
+delivery_ratio: 0.0743801652892562
+avg_delivery_time: 8.555555555555555
+trial 1:
+congestion happened,the number of dropped packets is:: 5218
+delivery_ratio: 0.6116981693704421
+avg_delivery_time: 15.67712895377129
+Episode 0:
+Epsilon: 0.6944222848314108
+delivery_ratio: 0.4215408399896934
+avg_delivery_time: 153.76283618581908
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.26021505376344084
+avg_delivery_time: 42.1900826446281
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 5.0
+trial 0:
+congestion happened,the number of dropped packets is:: 75
+delivery_ratio: 0.9744289123764064
+avg_delivery_time: 14.045486354093772
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 10.714285714285714
+trial 1:
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.9695843190266982
+avg_delivery_time: 13.944928546531893
+testing_curload 1000:
+Episode 0:
+Epsilon: 0.6998600125993281
+delivery_ratio: 0.08636363636363636
+avg_delivery_time: 8.842105263157896
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 10.0
+trial 0:
+congestion happened,the number of dropped packets is:: 48
+delivery_ratio: 0.902834008097166
+avg_delivery_time: 9.026905829596412
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 6.0
+trial 1:
+congestion happened,the number of dropped packets is:: 78
+delivery_ratio: 0.8401639344262295
+avg_delivery_time: 8.978048780487805
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 5.857142857142857
+trial 0:
+congestion happened,the number of dropped packets is:: 955
+delivery_ratio: 0.34945504087193463
+avg_delivery_time: 8.399610136452242
+congestion happened,the number of dropped packets is:: 90
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 11.88888888888889
+trial 1:
+congestion happened,the number of dropped packets is:: 874
+delivery_ratio: 0.3757142857142857
+avg_delivery_time: 8.326996197718632
+Episode 0:
+Epsilon: 0.6998740100795297
+delivery_ratio: 0.23684210526315788
+avg_delivery_time: 10.833333333333334
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 11.666666666666666
+trial 0:
+congestion happened,the number of dropped packets is:: 237
+delivery_ratio: 0.5842105263157895
+avg_delivery_time: 9.066066066066066
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 8.833333333333334
+trial 1:
+congestion happened,the number of dropped packets is:: 229
+delivery_ratio: 0.5910714285714286
+avg_delivery_time: 8.96676737160121
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 14
+delivery_ratio: 0.36363636363636365
+avg_delivery_time: 7.5
+trial 0:
+congestion happened,the number of dropped packets is:: 1569
+delivery_ratio: 0.23050514958312898
+avg_delivery_time: 8.327659574468084
+congestion happened,the number of dropped packets is:: 2
+delivery_ratio: 0.8
+avg_delivery_time: 11.5
+trial 1:
+congestion happened,the number of dropped packets is:: 1533
+delivery_ratio: 0.25
+avg_delivery_time: 8.800391389432486
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.22459016393442624
+avg_delivery_time: 64.18248175182482
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.383989145183175
+avg_delivery_time: 73.90812720848056
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 27.0
+trial 0:
+congestion happened,the number of dropped packets is:: 149
+delivery_ratio: 0.97176425999621
+avg_delivery_time: 15.546801872074884
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 12.444444444444445
+trial 1:
+congestion happened,the number of dropped packets is:: 242
+delivery_ratio: 0.9540011404675917
+avg_delivery_time: 15.660888623231719
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 1
+delivery_ratio: 0.8333333333333334
+avg_delivery_time: 6.4
+trial 0:
+congestion happened,the number of dropped packets is:: 1387
+delivery_ratio: 0.7975478032404029
+avg_delivery_time: 20.878111273792094
+congestion happened,the number of dropped packets is:: 22
+delivery_ratio: 0.21428571428571427
+avg_delivery_time: 6.5
+trial 1:
+congestion happened,the number of dropped packets is:: 1412
+delivery_ratio: 0.7941990963416412
+avg_delivery_time: 20.833730959809138
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.16226415094339622
+avg_delivery_time: 53.2093023255814
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 9.142857142857142
+trial 0:
+congestion happened,the number of dropped packets is:: 1819
+delivery_ratio: 0.7544877851261979
+avg_delivery_time: 15.695885509838998
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 6.6
+trial 1:
+congestion happened,the number of dropped packets is:: 2033
+delivery_ratio: 0.734178870292887
+avg_delivery_time: 15.368833481745325
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 8.555555555555555
+trial 0:
+congestion happened,the number of dropped packets is:: 11490
+delivery_ratio: 0.43376700177409816
+avg_delivery_time: 14.982390365825948
+congestion happened,the number of dropped packets is:: 14
+delivery_ratio: 0.36363636363636365
+avg_delivery_time: 14.375
+trial 1:
+congestion happened,the number of dropped packets is:: 11339
+delivery_ratio: 0.44299258240408707
+avg_delivery_time: 14.7507207806609
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.45927903871829107
+avg_delivery_time: 75.78779069767442
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 8.5
+trial 0:
+congestion happened,the number of dropped packets is:: 29
+delivery_ratio: 0.9953562850280224
+avg_delivery_time: 12.113416988416988
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 21.0
+trial 1:
+congestion happened,the number of dropped packets is:: 47
+delivery_ratio: 0.9926123860421251
+avg_delivery_time: 12.044972288202692
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 31
+delivery_ratio: 0.24390243902439024
+avg_delivery_time: 10.4
+trial 0:
+congestion happened,the number of dropped packets is:: 586
+delivery_ratio: 0.9220744680851064
+avg_delivery_time: 17.26680126910874
+congestion happened,the number of dropped packets is:: 26
+delivery_ratio: 0.10344827586206896
+avg_delivery_time: 8.666666666666666
+trial 1:
+congestion happened,the number of dropped packets is:: 623
+delivery_ratio: 0.9179723502304148
+avg_delivery_time: 17.099254159495125
+Episode 0:
+Epsilon: 0.697205564652196
+delivery_ratio: 0.5903732809430255
+avg_delivery_time: 141.50582362728787
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 95
+delivery_ratio: 0.9575513851653262
+avg_delivery_time: 82.15258982734484
+trial 0:
+congestion happened,the number of dropped packets is:: 547
+delivery_ratio: 0.9455667230570206
+avg_delivery_time: 17.461797516312355
+trial 1:
+congestion happened,the number of dropped packets is:: 0
+delivery_ratio: 1.0
+avg_delivery_time: 41.36412639405204
+trial 1:
+congestion happened,the number of dropped packets is:: 548
+delivery_ratio: 0.9460417487199685
+avg_delivery_time: 17.407785179017484
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 1572
+delivery_ratio: 0.8547537651298162
+avg_delivery_time: 35.84466544157388
+trial 0:
+congestion happened,the number of dropped packets is:: 3192
+delivery_ratio: 0.7715267339488942
+avg_delivery_time: 23.77224232303553
+trial 1:
+congestion happened,the number of dropped packets is:: 1807
+delivery_ratio: 0.838703918593234
+avg_delivery_time: 34.20764154959557
+trial 1:
+congestion happened,the number of dropped packets is:: 3138
+delivery_ratio: 0.7727404403244496
+avg_delivery_time: 23.91012183692596
+Episode 0:
+Epsilon: 0.6944222848314108
+delivery_ratio: 0.4164989939637827
+avg_delivery_time: 162.9003623188406
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 898
+delivery_ratio: 0.9539439942558211
+avg_delivery_time: 28.856129032258064
+trial 0:
+congestion happened,the number of dropped packets is:: 92
+delivery_ratio: 0.9941378870906079
+avg_delivery_time: 17.79278297654147
+trial 1:
+congestion happened,the number of dropped packets is:: 154
+delivery_ratio: 0.977066269545793
+avg_delivery_time: 25.907940862673374
+trial 1:
+congestion happened,the number of dropped packets is:: 104
+delivery_ratio: 0.9933422956276807
+avg_delivery_time: 17.853708835470773
+trial 2:
+congestion happened,the number of dropped packets is:: 317
+delivery_ratio: 0.9473509383823285
+avg_delivery_time: 30.315743338008414
+trial 2:
+congestion happened,the number of dropped packets is:: 141
+delivery_ratio: 0.991101293783528
+avg_delivery_time: 17.751655629139073
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 3759
+delivery_ratio: 0.8166341463414634
+avg_delivery_time: 28.49077116062362
+trial 0:
+congestion happened,the number of dropped packets is:: 2480
+delivery_ratio: 0.8708804081845161
+avg_delivery_time: 27.582172535421773
+trial 1:
+congestion happened,the number of dropped packets is:: 2240
+delivery_ratio: 0.8888833771516444
+avg_delivery_time: 30.353088900050228
+trial 1:
+congestion happened,the number of dropped packets is:: 2748
+delivery_ratio: 0.860145554481144
+avg_delivery_time: 27.25406780663866
+Episode 0:
+Epsilon: 0.6972195090423768
+delivery_ratio: 0.3853690398432397
+avg_delivery_time: 121.94406779661017
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 297
+delivery_ratio: 0.8441762854144806
+avg_delivery_time: 88.591671845867
+trial 0:
+congestion happened,the number of dropped packets is:: 632
+delivery_ratio: 0.950778816199377
+avg_delivery_time: 13.69028505897772
+trial 1:
+congestion happened,the number of dropped packets is:: 281
+delivery_ratio: 0.9429673229145524
+avg_delivery_time: 41.0415411106328
+trial 1:
+congestion happened,the number of dropped packets is:: 803
+delivery_ratio: 0.9377567630416247
+avg_delivery_time: 13.732187138369978
+trial 2:
+congestion happened,the number of dropped packets is:: 116
+delivery_ratio: 0.9679823350814243
+avg_delivery_time: 34.30481893356145
+trial 2:
+congestion happened,the number of dropped packets is:: 654
+delivery_ratio: 0.9486575600565238
+avg_delivery_time: 13.777805362462761
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 4006
+delivery_ratio: 0.7806133625410734
+avg_delivery_time: 31.352392310930266
+trial 0:
+congestion happened,the number of dropped packets is:: 1983
+delivery_ratio: 0.8728193945613135
+avg_delivery_time: 19.11705489014623
+trial 1:
+congestion happened,the number of dropped packets is:: 841
+delivery_ratio: 0.8638056680161943
+avg_delivery_time: 37.22628421447319
+trial 1:
+congestion happened,the number of dropped packets is:: 2187
+delivery_ratio: 0.8629613384297262
+avg_delivery_time: 18.783836770258496
+trial 2:
+congestion happened,the number of dropped packets is:: 1731
+delivery_ratio: 0.8397370613832053
+avg_delivery_time: 29.858544652701212
+trial 2:
+congestion happened,the number of dropped packets is:: 2203
+delivery_ratio: 0.862166051429644
+avg_delivery_time: 18.864441219158202
+Episode 0:
+Epsilon: 0.6944361735548819
+delivery_ratio: 0.33761256945775053
+avg_delivery_time: 125.61577752553916
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 414
+delivery_ratio: 0.12658227848101267
+avg_delivery_time: 55.03333333333333
+trial 0:
+congestion happened,the number of dropped packets is:: 98
+delivery_ratio: 0.993579243923213
+avg_delivery_time: 17.34388394329047
+congestion happened,the number of dropped packets is:: 837
+delivery_ratio: 0.09219088937093275
+avg_delivery_time: 18.31764705882353
+trial 1:
+congestion happened,the number of dropped packets is:: 146
+delivery_ratio: 0.9905642086214697
+avg_delivery_time: 17.22222222222222
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 2032
+delivery_ratio: 0.05969458583988894
+avg_delivery_time: 24.364341085271317
+trial 0:
+congestion happened,the number of dropped packets is:: 1448
+delivery_ratio: 0.9181365897783809
+avg_delivery_time: 27.583189655172415
+congestion happened,the number of dropped packets is:: 5282
+delivery_ratio: 0.056280150080400215
+avg_delivery_time: 21.276190476190475
+trial 1:
+congestion happened,the number of dropped packets is:: 1800
+delivery_ratio: 0.901955444196307
+avg_delivery_time: 27.125128329005374
+Episode 0:
+Epsilon: 0.6958264496174328
+delivery_ratio: 0.7496886674968867
+avg_delivery_time: 185.50415282392026
+Episode 1:
+Epsilon: 0.6916639492832033
+delivery_ratio: 0.9359362111630465
+avg_delivery_time: 118.4039365452409
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 1726
+delivery_ratio: 0.12207527975584945
+avg_delivery_time: 165.37916666666666
+trial 0:
+congestion happened,the number of dropped packets is:: 22
+delivery_ratio: 0.9988038927852988
+avg_delivery_time: 13.617005062326493
+congestion happened,the number of dropped packets is:: 105
+delivery_ratio: 0.4723618090452261
+avg_delivery_time: 125.01063829787235
+trial 1:
+congestion happened,the number of dropped packets is:: 36
+delivery_ratio: 0.9980692910007508
+avg_delivery_time: 13.496399785061795
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 4501
+delivery_ratio: 0.1021344504288849
+avg_delivery_time: 58.212890625
+trial 0:
+congestion happened,the number of dropped packets is:: 598
+delivery_ratio: 0.970673336275808
+avg_delivery_time: 19.998332743899358
+congestion happened,the number of dropped packets is:: 7969
+delivery_ratio: 0.1140633685380767
+avg_delivery_time: 41.85087719298246
+trial 1:
+congestion happened,the number of dropped packets is:: 661
+delivery_ratio: 0.9677356372333675
+avg_delivery_time: 19.873045495813578
+Episode 0:
+Epsilon: 0.6958264496174328
+delivery_ratio: 0.5235142118863049
+avg_delivery_time: 165.31490621915103
+Episode 1:
+Epsilon: 0.6916639492832033
+delivery_ratio: 0.8037383177570093
+avg_delivery_time: 137.91459502806737
+testing_curload 500:
+congestion happened,the number of dropped packets is:: 5813
+delivery_ratio: 0.08715452261306533
+avg_delivery_time: 54.72792792792793
+trial 0:
+congestion happened,the number of dropped packets is:: 152
+delivery_ratio: 0.9915230606212704
+avg_delivery_time: 15.969345857472298
+congestion happened,the number of dropped packets is:: 5603
+delivery_ratio: 0.10837046467218332
+avg_delivery_time: 41.013215859030836
+trial 1:
+congestion happened,the number of dropped packets is:: 136
+delivery_ratio: 0.9923749719668087
+avg_delivery_time: 16.07717514124294
+testing_curload 1000:
+congestion happened,the number of dropped packets is:: 19380
+delivery_ratio: 0.047853001866954896
+avg_delivery_time: 24.194045174537987
+trial 0:
+congestion happened,the number of dropped packets is:: 6082
+delivery_ratio: 0.7103809523809523
+avg_delivery_time: 17.628502480225233
+congestion happened,the number of dropped packets is:: 19008
+delivery_ratio: 0.0779976717112922
+avg_delivery_time: 30.790422885572138
+trial 1:
+congestion happened,the number of dropped packets is:: 6222
+delivery_ratio: 0.7037142857142857
+avg_delivery_time: 17.591622682365678
+Episode 0:
+Epsilon: 0.6958125330884404
+delivery_ratio: 0.7760617760617761
+avg_delivery_time: 188.41542288557213
+Episode 1:
+Epsilon: 0.6916501160042177
+delivery_ratio: 0.9110821382007823
+avg_delivery_time: 115.16657126502575
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 499
+delivery_ratio: 0.9512504884720594
+avg_delivery_time: 24.528910341994454
+trial 0:
+congestion happened,the number of dropped packets is:: 236
+delivery_ratio: 0.981605611847233
+avg_delivery_time: 17.18286485628077
+trial 1:
+congestion happened,the number of dropped packets is:: 2
+delivery_ratio: 0.9995210727969349
+avg_delivery_time: 26.05845711547676
+trial 1:
+congestion happened,the number of dropped packets is:: 392
+delivery_ratio: 0.9702669902912622
+avg_delivery_time: 16.950515947467167
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 3372
+delivery_ratio: 0.8360958537889467
+avg_delivery_time: 23.304982268472763
+trial 0:
+congestion happened,the number of dropped packets is:: 1973
+delivery_ratio: 0.8819057879930569
+avg_delivery_time: 24.229604995249083
+trial 1:
+congestion happened,the number of dropped packets is:: 1938
+delivery_ratio: 0.9015193861476701
+avg_delivery_time: 25.143509385040304
+trial 1:
+congestion happened,the number of dropped packets is:: 1574
+delivery_ratio: 0.9026773016756322
+avg_delivery_time: 24.4898965682581
+Episode 0:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.1647452584603942
+avg_delivery_time: 68.15124153498871
+Episode 0:
+Episode 0:
+Epsilon: 0.6986013850949175
+delivery_ratio: 0.19317329332333083
+avg_delivery_time: 62.62135922330097
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.21415339014449797
+avg_delivery_time: 52.75259515570934
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6986153574020656
+delivery_ratio: 0.19270449521002211
+avg_delivery_time: 59.896749521988525
+Episode 0:
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.1359683794466403
+avg_delivery_time: 30.226744186046513
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.132
+avg_delivery_time: 31.1
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.1289031224979984
+avg_delivery_time: 29.736024844720497
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.11220472440944881
+avg_delivery_time: 31.72280701754386
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.12425328554360812
+avg_delivery_time: 24.628205128205128
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.10838607594936708
+avg_delivery_time: 30.105839416058394
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.11928831378892034
+avg_delivery_time: 35.454237288135594
+Episode 0:
+Episode 0:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.1983258209916291
+avg_delivery_time: 39.29220779220779
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.18504190844616378
+avg_delivery_time: 34.850174216027874
+testing_curload 500:
+Episode 0:
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.06082036775106082
+avg_delivery_time: 23.767441860465116
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993562897150101
+delivery_ratio: 0.018
+avg_delivery_time: 33.333333333333336
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.01720647773279352
+avg_delivery_time: 24.470588235294116
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.023109243697478993
+avg_delivery_time: 22.5
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.13404825737265416
+avg_delivery_time: 26.86
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.08290155440414508
+avg_delivery_time: 26.5625
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 480
+delivery_ratio: 0.05697445972495088
+avg_delivery_time: 36.62068965517241
+trial 0:
+congestion happened,the number of dropped packets is:: 268
+delivery_ratio: 0.3991031390134529
+avg_delivery_time: 29.46067415730337
+trial 1:
+congestion happened,the number of dropped packets is:: 477
+delivery_ratio: 0.06653620352250489
+avg_delivery_time: 43.705882352941174
+trial 1:
+congestion happened,the number of dropped packets is:: 283
+delivery_ratio: 0.3711111111111111
+avg_delivery_time: 29.95808383233533
+testing_curload 1000:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.19020172910662825
+avg_delivery_time: 23.28787878787879
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.13068181818181818
+avg_delivery_time: 33.47826086956522
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.09090909090909091
+avg_delivery_time: 28.22222222222222
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.12094395280235988
+avg_delivery_time: 29.414634146341463
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.0815347721822542
+avg_delivery_time: 30.176470588235293
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.1284153005464481
+avg_delivery_time: 31.5531914893617
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.10209424083769633
+avg_delivery_time: 26.58974358974359
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.12169312169312169
+avg_delivery_time: 30.217391304347824
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.12569832402234637
+avg_delivery_time: 31.822222222222223
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.2138157894736842
+avg_delivery_time: 25.43076923076923
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.05995203836930456
+avg_delivery_time: 34.08
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.14804469273743018
+avg_delivery_time: 32.471698113207545
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.09319899244332494
+avg_delivery_time: 30.43243243243243
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.10459183673469388
+avg_delivery_time: 32.5609756097561
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.18541033434650456
+avg_delivery_time: 28.60655737704918
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.07733333333333334
+avg_delivery_time: 32.310344827586206
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993003428902654
+delivery_ratio: 0.09558823529411764
+avg_delivery_time: 31.205128205128204
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.13583815028901733
+avg_delivery_time: 31.085106382978722
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.08020050125313283
+avg_delivery_time: 26.90625
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.06633906633906633
+avg_delivery_time: 31.037037037037038
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.18811881188118812
+avg_delivery_time: 23.385964912280702
+Episode 0:
+Epsilon: 0.6993842648058486
+delivery_ratio: 0.1
+avg_delivery_time: 34.15384615384615
+Episode 0:
+Epsilon: 0.6993702771205524
+delivery_ratio: 0.2558922558922559
+avg_delivery_time: 28.68421052631579
+testing_curload 500:
+trial 0:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.10136986301369863
+avg_delivery_time: 30.594594594594593
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993423025892157
+delivery_ratio: 0.10353535353535354
+avg_delivery_time: 31.024390243902438
+Episode 0:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.10126582278481013
+avg_delivery_time: 31.6
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.0847457627118644
+avg_delivery_time: 31.571428571428573
+Episode 0:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.20761245674740483
+avg_delivery_time: 25.866666666666667
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.11936339522546419
+avg_delivery_time: 31.266666666666666
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.05596107055961071
+avg_delivery_time: 31.391304347826086
+Episode 0:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.10123456790123457
+avg_delivery_time: 33.97560975609756
+testing_curload 500:
+Episode 0:
+Epsilon: 0.6993283157431639
+delivery_ratio: 0.07387862796833773
+avg_delivery_time: 32.535714285714285
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.21212121212121213
+avg_delivery_time: 29.15714285714286
+testing_curload 500:
+Episode 0:
+Epsilon: 0.699314329176849
+delivery_ratio: 0.07197943444730077
+avg_delivery_time: 29.464285714285715
+testing_curload 500:
+trial 0:
+congestion happened,the number of dropped packets is:: 313
+delivery_ratio: 0.20959595959595959
+avg_delivery_time: 36.48192771084337
+trial 0:
+congestion happened,the number of dropped packets is:: 338
+delivery_ratio: 0.23529411764705882
+avg_delivery_time: 28.432692307692307
+trial 1:
+congestion happened,the number of dropped packets is:: 410
+delivery_ratio: 0.09691629955947137
+avg_delivery_time: 34.31818181818182
+trial 1:
+congestion happened,the number of dropped packets is:: 347
+delivery_ratio: 0.21846846846846846
+avg_delivery_time: 31.24742268041237
+testing_curload 1000:
+trial 0:
+congestion happened,the number of dropped packets is:: 651
+delivery_ratio: 0.12027027027027028
+avg_delivery_time: 58.2247191011236
+trial 0:
+congestion happened,the number of dropped packets is:: 331
+delivery_ratio: 0.257847533632287
+avg_delivery_time: 30.0
+trial 1:
+congestion happened,the number of dropped packets is:: 681
+delivery_ratio: 0.10039630118890357
+avg_delivery_time: 50.21052631578947
+trial 1:
+congestion happened,the number of dropped packets is:: 333
+delivery_ratio: 0.251685393258427
+avg_delivery_time: 29.4375
+Episode 0:
+delivery_ratio: 0.09975062344139651
+avg_delivery_time: 29.575
+Episode 0:
+delivery_ratio: 0.19791666666666666
+avg_delivery_time: 56.8421052631579
+Episode 1:
+delivery_ratio: 0.14893617021276595
+avg_delivery_time: 61.214285714285715
+Episode 0:
+delivery_ratio: 0.16483516483516483
+avg_delivery_time: 56.8
+Episode 1:
+delivery_ratio: 0.14130434782608695
+avg_delivery_time: 54.76923076923077
+Episode 0:
+delivery_ratio: 0.14772727272727273
+avg_delivery_time: 52.76923076923077
+Episode 1:
+delivery_ratio: 0.16304347826086957
+avg_delivery_time: 63.266666666666666
+Episode 0:
+delivery_ratio: 0.1111111111111111
+avg_delivery_time: 33.3
+Episode 1:
+delivery_ratio: 0.10638297872340426
+avg_delivery_time: 52.1
+Episode 0:
+delivery_ratio: 0.13043478260869565
+avg_delivery_time: 74.25
+Episode 1:
+delivery_ratio: 0.11235955056179775
+avg_delivery_time: 45.9
+Episode 0:
+Episode 0:
+delivery_ratio: 0.19791666666666666
+avg_delivery_time: 108.26315789473684
+Episode 1:
+delivery_ratio: 0.20833333333333334
+avg_delivery_time: 87.6
+Episode 0:
+delivery_ratio: 0.25263157894736843
+avg_delivery_time: 94.08333333333333
+Episode 1:
+delivery_ratio: 0.15789473684210525
+avg_delivery_time: 92.06666666666666
+Episode 0:
+delivery_ratio: 0.0967741935483871
+avg_delivery_time: 148.88888888888889
+Episode 1:
+delivery_ratio: 0.15789473684210525
+avg_delivery_time: 99.2
+Episode 0:
+delivery_ratio: 0.1134020618556701
+avg_delivery_time: 168.1818181818182
+Episode 1:
+delivery_ratio: 0.21649484536082475
+avg_delivery_time: 83.04761904761905
+Episode 0:
+delivery_ratio: 0.17346938775510204
+avg_delivery_time: 147.94117647058823
+Episode 1:
+delivery_ratio: 0.23
+avg_delivery_time: 117.30434782608695
+Episode 0:
+delivery_ratio: 0.9806856591018831
+avg_delivery_time: 232.4470704086657
+Episode 1:
+delivery_ratio: 0.9906870860927153
+avg_delivery_time: 124.45978692291624
+Episode 0:
+delivery_ratio: 0.9254555494202098
+avg_delivery_time: 244.7744630071599
+Episode 1:
+delivery_ratio: 0.9616052060737527
+avg_delivery_time: 134.26979472140764
+Episode 0:
+delivery_ratio: 0.8274111675126904
+avg_delivery_time: 170.24864669794297
+Episode 1:
+delivery_ratio: 0.9060728744939271
+avg_delivery_time: 108.88382484361037
+Episode 0:
+delivery_ratio: 0.9022768486802337
+avg_delivery_time: 101.81018311746315
+Episode 1:
+delivery_ratio: 0.9061683745228049
+avg_delivery_time: 96.53525498891352
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 112.97928994082841
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.8341463414634146
+avg_delivery_time: 270.65204678362574
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 184.66911519198663
+Episode 0:
+Episode 0:
+delivery_ratio: 0.07295620218085427
+avg_delivery_time: 323.09661436829066
+Episode 1:
+Episode 0:
+delivery_ratio: 0.7615853658536585
+avg_delivery_time: 318.10648518815054
+Episode 1:
+delivery_ratio: 0.9533980582524272
+avg_delivery_time: 312.7235234215886
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 256.84188034188037
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 178.28861256544502
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9812558575445174
+avg_delivery_time: 258.81852913085004
+Episode 0:
+delivery_ratio: 0.9819494584837545
+avg_delivery_time: 260.48805147058823
+Episode 1:
+delivery_ratio: 0.9788323659952202
+avg_delivery_time: 154.19881409138472
+Episode 0:
+delivery_ratio: 0.734006734006734
+avg_delivery_time: 373.908256880734
+Episode 0:
+delivery_ratio: 0.667590027700831
+avg_delivery_time: 347.9336099585062
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9866666666666667
+avg_delivery_time: 349.38513513513516
+Episode 1:
+delivery_ratio: 0.8322639780018332
+avg_delivery_time: 290.00550660792953
+Episode 2:
+delivery_ratio: 0.9936708860759493
+avg_delivery_time: 267.96886058032555
+Episode 0:
+delivery_ratio: 0.9502982107355865
+avg_delivery_time: 344.22384937238496
+Episode 1:
+delivery_ratio: 0.9989806320081549
+avg_delivery_time: 319.4295918367347
+Episode 2:
+delivery_ratio: 0.9865418373317729
+avg_delivery_time: 261.8979833926453
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 325.636815920398
+Episode 0:
+delivery_ratio: 0.9883720930232558
+avg_delivery_time: 327.84
+Episode 1:
+delivery_ratio: 0.9759825327510917
+avg_delivery_time: 298.1666666666667
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 337.29787234042556
+Episode 1:
+delivery_ratio: 0.936007640878701
+avg_delivery_time: 304.04285714285714
+Episode 2:
+delivery_ratio: 0.9792899408284024
+avg_delivery_time: 256.9945619335347
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 323.87775061124694
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 293.08256880733944
+Episode 2:
+delivery_ratio: 1.0
+avg_delivery_time: 323.77383592017736
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 313.4625
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 309.21017699115043
+Episode 0:
+delivery_ratio: 0.9375
+avg_delivery_time: 337.1333333333333
+Episode 1:
+delivery_ratio: 0.9031620553359684
+avg_delivery_time: 293.79868708971554
+Episode 0:
+delivery_ratio: 0.9507389162561576
+avg_delivery_time: 349.9611398963731
+Episode 1:
+delivery_ratio: 0.9143389199255121
+avg_delivery_time: 311.8299389002037
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 343.7037037037037
+Episode 1:
+Episode 0:
+delivery_ratio: 0.8136531365313653
+avg_delivery_time: 329.0612244897959
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 301.1996233521657
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 335.9852941176471
+Episode 1:
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 178.3548387096774
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 154.52036199095022
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 170.1353711790393
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9951690821256038
+avg_delivery_time: 175.89805825242718
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 164.27678571428572
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9755102040816327
+avg_delivery_time: 158.31380753138075
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 185.3238434163701
+Episode 0:
+delivery_ratio: 0.9752066115702479
+avg_delivery_time: 163.90677966101694
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9224489795918367
+avg_delivery_time: 182.6150442477876
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 171.4188034188034
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 192.88135593220338
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 155.5703125
+Episode 0:
+delivery_ratio: 0.8574660633484162
+avg_delivery_time: 312.70976253298153
+Episode 1:
+delivery_ratio: 0.9680715197956578
+avg_delivery_time: 289.29023746701847
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 347.84154175588867
+Episode 1:
+delivery_ratio: 0.9726277372262774
+avg_delivery_time: 289.41651031894935
+Episode 0:
+delivery_ratio: 0.9840319361277445
+avg_delivery_time: 268.0547667342799
+Episode 1:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 259.1120049504951
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 237.9387159533074
+Episode 0:
+delivery_ratio: 0.8446601941747572
+avg_delivery_time: 303.26206896551724
+Episode 1:
+delivery_ratio: 0.9585635359116023
+avg_delivery_time: 271.13544668587895
+Episode 0:
+delivery_ratio: 0.8714011516314779
+avg_delivery_time: 339.81277533039645
+Episode 1:
+delivery_ratio: 0.9787664307381193
+avg_delivery_time: 313.3853305785124
+Episode 0:
+delivery_ratio: 0.9212007504690432
+avg_delivery_time: 332.27291242362526
+Episode 1:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9029982363315696
+avg_delivery_time: 322.318359375
+Episode 1:
+delivery_ratio: 0.9682791435368755
+avg_delivery_time: 286.05651105651106
+Episode 2:
+delivery_ratio: 0.9983615510649918
+avg_delivery_time: 241.359409190372
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.7282051282051282
+avg_delivery_time: 326.88967136150234
+Episode 0:
+delivery_ratio: 0.9766899766899767
+avg_delivery_time: 338.17183770883054
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9031531531531531
+avg_delivery_time: 331.26932668329175
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9065040650406504
+avg_delivery_time: 309.1434977578475
+Episode 1:
+delivery_ratio: 0.9232365145228216
+avg_delivery_time: 306.72808988764046
+Episode 0:
+delivery_ratio: 0.8432432432432433
+avg_delivery_time: 325.758547008547
+Episode 1:
+delivery_ratio: 0.9615754082612872
+avg_delivery_time: 297.2007992007992
+Episode 2:
+delivery_ratio: 0.9944227551589515
+avg_delivery_time: 253.1306786315199
+Episode 3:
+delivery_ratio: 0.9894837476099426
+avg_delivery_time: 233.91739130434783
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 227.85983954695612
+Episode 1:
+delivery_ratio: 0.9995808885163453
+avg_delivery_time: 218.662893081761
+Episode 2:
+delivery_ratio: 0.997979797979798
+avg_delivery_time: 214.8987854251012
+Episode 3:
+delivery_ratio: 0.9796974522292994
+avg_delivery_time: 211.71149939049167
+Episode 0:
+delivery_ratio: 0.9940854326396495
+avg_delivery_time: 277.79286029087706
+Episode 1:
+delivery_ratio: 0.9860004307559768
+avg_delivery_time: 275.3165137614679
+Episode 0:
+delivery_ratio: 0.982413178984862
+avg_delivery_time: 269.35961930659414
+Episode 1:
+delivery_ratio: 0.9723840345199568
+avg_delivery_time: 266.22720213002
+Episode 2:
+delivery_ratio: 0.9953241232731137
+avg_delivery_time: 266.0638479607089
+Episode 0:
+delivery_ratio: 0.9977300866694181
+avg_delivery_time: 308.3127197518097
+Episode 1:
+delivery_ratio: 0.9926184129587862
+avg_delivery_time: 296.68932038834953
+Episode 2:
+delivery_ratio: 0.9832139201637666
+avg_delivery_time: 289.43847595252964
+Episode 3:
+delivery_ratio: 0.9809446584228664
+avg_delivery_time: 282.9142384790246
+Episode 0:
+delivery_ratio: 0.9888548951048951
+avg_delivery_time: 279.13458563535914
+Episode 1:
+delivery_ratio: 0.980176686059039
+avg_delivery_time: 270.1057375247307
+Episode 2:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9963219385547382
+avg_delivery_time: 274.3233441910966
+Episode 1:
+delivery_ratio: 0.9797892926252418
+avg_delivery_time: 266.99692780337944
+Episode 2:
+delivery_ratio: 0.9890457130819464
+avg_delivery_time: 271.0888178913738
+Episode 3:
+delivery_ratio: 0.9883573243014394
+avg_delivery_time: 268.54122938530736
+Episode 4:
+delivery_ratio: 0.9816053511705686
+avg_delivery_time: 257.3545570698467
+Episode 0:
+delivery_ratio: 0.9942932396839332
+avg_delivery_time: 278.3309050772627
+Episode 1:
+delivery_ratio: 0.9916362856530131
+avg_delivery_time: 272.6126730103806
+Episode 2:
+delivery_ratio: 0.9934224485465734
+avg_delivery_time: 270.98334045279796
+Episode 3:
+delivery_ratio: 0.9905083315756169
+avg_delivery_time: 265.2964224872232
+Episode 4:
+delivery_ratio: 0.9905581200167856
+avg_delivery_time: 262.3814869730989
+Episode 0:
+delivery_ratio: 0.9866200082338411
+avg_delivery_time: 302.7020655122053
+Episode 1:
+delivery_ratio: 0.9875357580711075
+avg_delivery_time: 300.99089592385684
+Episode 2:
+delivery_ratio: 0.9874595469255664
+avg_delivery_time: 283.42769356820975
+Episode 3:
+delivery_ratio: 0.9829580036518564
+avg_delivery_time: 277.9143446852425
+Episode 4:
+delivery_ratio: 0.9963724304715841
+avg_delivery_time: 269.06533171521033
+Episode 0:
+delivery_ratio: 0.9727213682615284
+avg_delivery_time: 275.55753394168704
+Episode 1:
+delivery_ratio: 0.990582191780822
+avg_delivery_time: 276.66400172860847
+Episode 2:
+delivery_ratio: 0.9723521905572097
+avg_delivery_time: 268.4332895888014
+Episode 3:
+delivery_ratio: 0.9586708203530634
+avg_delivery_time: 259.52209705372616
+Episode 4:
+delivery_ratio: 0.9500931869952371
+avg_delivery_time: 258.27332170880555
+Episode 5:
+delivery_ratio: 0.9407422595858109
+avg_delivery_time: 250.74520488230166
+Episode 0:
+delivery_ratio: 0.9791395045632334
+avg_delivery_time: 274.66111850865514
+Episode 1:
+delivery_ratio: 0.957983193277311
+avg_delivery_time: 269.3735942420153
+Episode 2:
+delivery_ratio: 0.9798429874814343
+avg_delivery_time: 272.6074058033781
+Episode 3:
+delivery_ratio: 0.9624501783092091
+avg_delivery_time: 266.8053618134263
+Episode 4:
+delivery_ratio: 0.9425619834710743
+avg_delivery_time: 259.2768522577817
+Episode 5:
+delivery_ratio: 0.9534308675046363
+avg_delivery_time: 257.15582450832073
+Episode 0:
+delivery_ratio: 0.9755991285403051
+avg_delivery_time: 280.7168378740509
+Episode 1:
+delivery_ratio: 0.9722809987304274
+avg_delivery_time: 271.5608269858542
+Episode 2:
+delivery_ratio: 0.9801494130202775
+avg_delivery_time: 271.76894599303137
+Episode 3:
+delivery_ratio: 0.954459995822018
+avg_delivery_time: 261.2225869993434
+Episode 4:
+delivery_ratio: 0.9471940360323048
+avg_delivery_time: 251.9468736335811
+Episode 5:
+delivery_ratio: 0.9529314616019818
+avg_delivery_time: 253.6026863084922
+Episode 0:
+delivery_ratio: 0.9718279569892473
+avg_delivery_time: 277.8490816552335
+Episode 1:
+delivery_ratio: 0.9715317612067134
+avg_delivery_time: 272.5961075880166
+Episode 2:
+delivery_ratio: 0.9682203389830508
+avg_delivery_time: 270.0067833698031
+Episode 3:
+delivery_ratio: 0.9832705980761188
+avg_delivery_time: 264.03806890684814
+Episode 4:
+delivery_ratio: 0.9448720615768671
+avg_delivery_time: 258.0766182298547
+Episode 5:
+delivery_ratio: 0.9427692307692308
+avg_delivery_time: 252.98563968668407
+Episode 0:
+delivery_ratio: 0.9803579223046704
+avg_delivery_time: 275.22439893143365
+Episode 1:
+delivery_ratio: 0.9704939063502245
+avg_delivery_time: 274.60630094734523
+Episode 2:
+delivery_ratio: 0.9712291093716945
+avg_delivery_time: 263.53321716401655
+Episode 3:
+delivery_ratio: 0.9692661509512858
+avg_delivery_time: 257.75409836065575
+Episode 4:
+delivery_ratio: 0.9442494321701425
+avg_delivery_time: 256.6365624316641
+Episode 5:
+delivery_ratio: 0.9456298727944193
+avg_delivery_time: 246.61379908873943
+Episode 0:
+delivery_ratio: 0.9777729352800174
+avg_delivery_time: 277.59059505237354
+Episode 1:
+delivery_ratio: 0.9734076774608621
+avg_delivery_time: 272.9473452302269
+Episode 2:
+delivery_ratio: 0.9620360551431602
+avg_delivery_time: 265.38514109347443
+Episode 3:
+Episode 0:
+delivery_ratio: 0.9475753604193972
+avg_delivery_time: 563.4591977869986
+Episode 1:
+delivery_ratio: 0.9552429667519181
+avg_delivery_time: 558.9585006693441
+Episode 2:
+delivery_ratio: 0.9773936170212766
+avg_delivery_time: 533.0408163265306
+Episode 3:
+delivery_ratio: 0.9
+avg_delivery_time: 547.9017094017094
+Episode 4:
+delivery_ratio: 0.9859872611464968
+avg_delivery_time: 566.2080103359173
+Episode 0:
+delivery_ratio: 0.9360852197070573
+avg_delivery_time: 556.0014224751067
+Episode 1:
+delivery_ratio: 0.9742599742599742
+avg_delivery_time: 540.4861294583884
+Episode 2:
+delivery_ratio: 0.9230769230769231
+avg_delivery_time: 546.7217741935484
+Episode 3:
+delivery_ratio: 0.9215938303341902
+avg_delivery_time: 576.6345885634588
+Episode 4:
+delivery_ratio: 0.9215686274509803
+avg_delivery_time: 550.8198581560283
+Episode 5:
+delivery_ratio: 0.8945454545454545
+avg_delivery_time: 534.7682926829268
+Episode 0:
+delivery_ratio: 0.9444776119402986
+avg_delivery_time: 1046.0151706700378
+Episode 1:
+delivery_ratio: 0.8469886055344547
+avg_delivery_time: 979.2504804612428
+Episode 2:
+delivery_ratio: 0.7868605817452357
+avg_delivery_time: 930.2695984703632
+Episode 3:
+delivery_ratio: 0.7291000456829603
+avg_delivery_time: 917.1591478696741
+Episode 4:
+delivery_ratio: 0.6609531772575251
+avg_delivery_time: 874.8678051865908
+Episode 5:
+delivery_ratio: 0.6216653193209377
+avg_delivery_time: 778.630689206762
+Episode 0:
+delivery_ratio: 0.9602864583333334
+avg_delivery_time: 277.78621468926553
+Episode 1:
+delivery_ratio: 0.9835434921991879
+avg_delivery_time: 270.7579313342025
+Episode 2:
+delivery_ratio: 0.9646241313960834
+avg_delivery_time: 266.44095175725823
+Episode 3:
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.9894328229458702
+avg_delivery_time: 272.7386660854403
+Episode 1:
+delivery_ratio: 0.9902376910016978
+avg_delivery_time: 269.4459922846121
+Episode 2:
+delivery_ratio: 0.9892291446673707
+avg_delivery_time: 269.1026900085397
+Episode 3:
+delivery_ratio: 0.9920452166631777
+avg_delivery_time: 267.2580713230639
+Episode 4:
+delivery_ratio: 0.9937539038101186
+avg_delivery_time: 261.1009847056359
+Episode 0:
+delivery_ratio: 0.9963046602340382
+avg_delivery_time: 304.40098907892025
+Episode 1:
+delivery_ratio: 0.9909817585570814
+avg_delivery_time: 296.01695966907965
+Episode 2:
+delivery_ratio: 0.9910514541387024
+avg_delivery_time: 286.2585676174841
+Episode 3:
+delivery_ratio: 0.9943216386128574
+avg_delivery_time: 282.9186212522945
+Episode 4:
+delivery_ratio: 0.9824206910486967
+avg_delivery_time: 276.3153023447141
+Episode 5:
+delivery_ratio: 0.9843121480289622
+avg_delivery_time: 260.6885982836126
+Episode 6:
+delivery_ratio: 0.9843342036553525
+avg_delivery_time: 256.79738828810446
+Episode 7:
+delivery_ratio: 0.9891522699879469
+avg_delivery_time: 254.2041023558083
+Episode 0:
+delivery_ratio: 0.9886501824077827
+avg_delivery_time: 328.05637556375564
+Episode 1:
+delivery_ratio: 0.9937525191455059
+avg_delivery_time: 313.7252078685865
+Episode 2:
+delivery_ratio: 0.9877312952534192
+avg_delivery_time: 302.6625941763388
+Episode 3:
+delivery_ratio: 0.9955858747993579
+avg_delivery_time: 287.90326481257557
+Episode 4:
+delivery_ratio: 0.9678197908286403
+avg_delivery_time: 271.2896924355777
+Episode 5:
+delivery_ratio: 0.9895624247290244
+avg_delivery_time: 275.66997971602433
+Episode 6:
+delivery_ratio: 0.9921812349639134
+avg_delivery_time: 269.8918973530006
+Episode 7:
+delivery_ratio: 0.994195356285028
+avg_delivery_time: 250.65955305013085
+Episode 8:
+delivery_ratio: 0.9739791833466773
+avg_delivery_time: 244.45129469790382
+Episode 9:
+delivery_ratio: 0.986583900680817
+avg_delivery_time: 238.16988025167444
+Episode 0:
+delivery_ratio: 0.9951495553759094
+avg_delivery_time: 326.78208773355
+Episode 1:
+Episode 0:
+delivery_ratio: 0.9887005649717514
+avg_delivery_time: 321.80673469387756
+Episode 1:
+delivery_ratio: 0.9951700543368888
+avg_delivery_time: 315.1065722952477
+Episode 2:
+delivery_ratio: 0.9826961770623742
+avg_delivery_time: 297.39987714987717
+Episode 0:
+delivery_ratio: 0.9997964169381107
+avg_delivery_time: 353.4683363877011
+Episode 1:
+delivery_ratio: 0.9859183262924964
+avg_delivery_time: 302.4882677004693
+Episode 2:
+delivery_ratio: 0.9895770695530166
+avg_delivery_time: 294.1393558841402
+Episode 0:
+delivery_ratio: 0.992363344051447
+avg_delivery_time: 313.6249493722155
+Episode 1:
+delivery_ratio: 0.9867735470941884
+avg_delivery_time: 298.0625507717303
+Episode 2:
+delivery_ratio: 0.9913793103448276
+avg_delivery_time: 288.93023255813955
+Episode 3:
+delivery_ratio: 0.9803528468323978
+avg_delivery_time: 277.8803680981595
+Episode 4:
+delivery_ratio: 0.9875900720576462
+avg_delivery_time: 263.6670044588569
+Episode 0:
+delivery_ratio: 0.991356783919598
+avg_delivery_time: 310.00304136253044
+Episode 1:
+delivery_ratio: 0.9953759549658223
+avg_delivery_time: 299.16441123005455
+Episode 2:
+delivery_ratio: 0.9817744842779892
+avg_delivery_time: 284.9810281517748
+Episode 3:
+delivery_ratio: 0.9783610498898017
+avg_delivery_time: 269.4704075363506
+Episode 4:
+delivery_ratio: 0.9823753254556379
+avg_delivery_time: 262.07013251783894
+Episode 5:
+delivery_ratio: 0.9501301822551572
+avg_delivery_time: 247.66462900505903
+Episode 6:
+delivery_ratio: 0.9715772618094476
+avg_delivery_time: 242.78739184177996
+Episode 7:
+delivery_ratio: 0.9509705823494097
+avg_delivery_time: 237.26599326599327
+Episode 8:
+delivery_ratio: 0.9625850340136054
+avg_delivery_time: 232.70858449386822
+Episode 9:
+delivery_ratio: 0.9463892778555711
+avg_delivery_time: 223.13464383851195
+Episode 0:
+Episode 0:
+delivery_ratio: 0.6916903527838154
+avg_delivery_time: 323.36596567561037
+Episode 1:
+delivery_ratio: 0.6907147628590514
+avg_delivery_time: 300.99419729206966
+Episode 2:
+delivery_ratio: 0.7089938261304856
+avg_delivery_time: 291.80607201694517
+Episode 3:
+delivery_ratio: 0.687677171919293
+avg_delivery_time: 279.8385063045587
+Episode 4:
+delivery_ratio: 0.717670615718338
+avg_delivery_time: 273.57498256219486
+Episode 0:
+delivery_ratio: 0.6917418923436978
+avg_delivery_time: 309.1884968583857
+Episode 1:
+delivery_ratio: 0.6909212283044058
+avg_delivery_time: 298.0891304347826
+Episode 2:
+delivery_ratio: 0.6972783436299883
+avg_delivery_time: 290.0538793103448
+Episode 3:
+delivery_ratio: 0.7098281328216253
+avg_delivery_time: 278.2842031029619
+Episode 4:
+delivery_ratio: 0.712641761174116
+avg_delivery_time: 270.79850222326235
+Episode 5:
+delivery_ratio: 0.7222870478413069
+avg_delivery_time: 267.81006231248557
+Episode 6:
+delivery_ratio: 0.7301216869478246
+avg_delivery_time: 260.81255707762557
+Episode 7:
+delivery_ratio: 0.7396666666666667
+avg_delivery_time: 252.24290220820188
+Episode 8:
+delivery_ratio: 0.733955659276546
+avg_delivery_time: 252.92959345900522
+Episode 9:
+delivery_ratio: 0.7474158052684228
+avg_delivery_time: 251.21704215926835
+Episode 0:
+delivery_ratio: 0.6910487641950568
+avg_delivery_time: 317.318511358144
+Episode 1:
+delivery_ratio: 0.6917808219178082
+avg_delivery_time: 292.14078724945665
+Episode 2:
+delivery_ratio: 0.6979305740987984
+avg_delivery_time: 292.2771401243424
+Episode 3:
+delivery_ratio: 0.6944490748458076
+avg_delivery_time: 279.34013442150746
+Episode 4:
+delivery_ratio: 0.7396163469557965
+avg_delivery_time: 267.10036084799276
+Episode 5:
+delivery_ratio: 0.7119039679893298
+avg_delivery_time: 259.9344262295082
+Episode 6:
+delivery_ratio: 0.7158579289644822
+avg_delivery_time: 261.65828092243186
+Episode 7:
+delivery_ratio: 0.7153333333333334
+avg_delivery_time: 262.7621155638397
+Episode 8:
+delivery_ratio: 0.7282427475825275
+avg_delivery_time: 250.57989926739927
+Episode 9:
+delivery_ratio: 0.7469979986657772
+avg_delivery_time: 247.63295378432687
+Episode 0:
+delivery_ratio: 0.6585873887521303
+avg_delivery_time: 208.50057504312824
+Episode 0:
+Episode 0:
+Episode 0:
+Episode 0:
+delivery_ratio: 0.6771265560165975
+avg_delivery_time: 125.18690157027959
+Episode 0:
+delivery_ratio: 0.6295944233206591
+avg_delivery_time: 137.9667840966281
+Episode 0:
+Episode 0:
+delivery_ratio: 0.7086357947434293
+avg_delivery_time: 122.06534793359236
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 346.52
+Episode 0:
+delivery_ratio: 0.7627118644067796
+avg_delivery_time: 332.5777777777778
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 372.2352941176471
+Episode 0:
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 329.6378378378378
+Episode 0:
+delivery_ratio: 0.9020537124802528
+avg_delivery_time: 780.9649737302977
+Episode 1:
+delivery_ratio: 0.9755458515283842
+avg_delivery_time: 780.9480752014324
+Episode 2:
+delivery_ratio: 1.0
+avg_delivery_time: 694.6998827667057
+Episode 3:
+delivery_ratio: 1.0
+avg_delivery_time: 632.0778210116731
+Episode 4:
+delivery_ratio: 1.0
+avg_delivery_time: 591.0272647317502
+Episode 5:
+delivery_ratio: 1.0
+avg_delivery_time: 584.9059613769941
+Episode 6:
+delivery_ratio: 1.0
+avg_delivery_time: 562.0150793650794
+Episode 7:
+delivery_ratio: 1.0
+avg_delivery_time: 538.730501647748
+Episode 8:
+delivery_ratio: 1.0
+avg_delivery_time: 545.4891871737509
+Episode 9:
+delivery_ratio: 1.0
+avg_delivery_time: 522.4416083916084
+Episode 0:
+delivery_ratio: 1.0
+avg_delivery_time: 486.29175752289575
+Episode 1:
+delivery_ratio: 1.0
+avg_delivery_time: 482.16630481980025
+Episode 2:
+delivery_ratio: 1.0
+avg_delivery_time: 470.7038714991763
+Episode 3:
+delivery_ratio: 1.0
+avg_delivery_time: 467.37670384138784
+Episode 0:
+Episode 0:
+delivery_ratio: 0.595222295952223
+avg_delivery_time: 204.90189520624304
+Episode 1:
+delivery_ratio: 0.8963178294573644
+avg_delivery_time: 198.0227027027027
+Episode 0:
+Episode 0:
+delivery_ratio: 0.8714285714285714
+avg_delivery_time: 207.4847775175644
+Episode 1:
+delivery_ratio: 0.8078994614003591
+avg_delivery_time: 203.5377777777778
+Episode 0:
+delivery_ratio: 0.8159111933395005
+avg_delivery_time: 205.53174603174602
+Episode 1:
+delivery_ratio: 0.8180987202925045
+avg_delivery_time: 206.17653631284915
+Episode 0:
+delivery_ratio: 0.8311195445920304
+avg_delivery_time: 204.66095890410958
+Episode 1:
+delivery_ratio: 0.7880851063829787
+avg_delivery_time: 198.03023758099351
+Episode 0:
+delivery_ratio: 0.9379049676025918
+avg_delivery_time: 327.07714450201496
+Episode 1:
+delivery_ratio: 0.9590347923681257
+avg_delivery_time: 340.72205968402574
+Episode 2:
+delivery_ratio: 0.9768211920529801
+avg_delivery_time: 335.5785310734463
+Episode 3:
+delivery_ratio: 0.9174025974025974
+avg_delivery_time: 324.60362400906
+Episode 4:
+delivery_ratio: 0.9702127659574468
+avg_delivery_time: 331.8766447368421
+Episode 5:
+delivery_ratio: 0.9782253674469243
+avg_delivery_time: 340.08681135225373
+Episode 0:
+delivery_ratio: 0.9352004393190555
+avg_delivery_time: 333.1332941867293
+Episode 1:
+delivery_ratio: 0.9402116402116402
+avg_delivery_time: 329.1288688801351
+Episode 2:
+delivery_ratio: 0.9366952789699571
+avg_delivery_time: 338.00114547537225
+Episode 3:
+delivery_ratio: 0.9179646936656283
+avg_delivery_time: 331.91572398190044
+Episode 4:
+delivery_ratio: 0.9765922700054437
+avg_delivery_time: 332.38461538461536
+Episode 5:
+delivery_ratio: 0.9383490073145245
+avg_delivery_time: 334.5194877505568
