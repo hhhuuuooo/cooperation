@@ -11,8 +11,11 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
     * Generate and save the topology, initialize the network and all parameters.
     * implement the route decision and the delivery of packets
     * save and load the training neural networks' model
+* dqnSimualtion.py
+  * Train the neural networks of each agent.
+  * Test the performance of different methods in fixed topology and dynamic topology respectively.
 * dynetwork.py
   * Define network and realize the packets' generation of the network.And the functions it possessed are as follows:
     * Generate packets having random source and destination pairs during intialization.
-    * Generate new packets when the congestion occurs and a packet has successfully arrive at its destination.
+    * Generate new packets when the congestion occurs or a packet has successfully arrive at its destination.
  
