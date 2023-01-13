@@ -7,5 +7,6 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
 ***For the dynamic large topology***, a small amount of nodes are randomly selected to change its locations and reestablish new links on the basis of existing topoloy.And we evaluate the above mentioned performance of four approaches when the topology changes dynamically including shortest-path(SP), Collabarate DQN Route algorithm without retraining, Collabarate DQN Route algorithm with global training, Collabarate DQN Route algorithm with local training.<br>
 ## code structure
 * our_env3.py
-  * Create the environment for both fixed network and dynamic network scenarios.Generate and save the topology
+  * Create the environment for both fixed network and dynamic network scenarios.
+   *Generate and save the topology.
 
