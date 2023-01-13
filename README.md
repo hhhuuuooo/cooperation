@@ -8,5 +8,5 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
 ## code structure
 * our_env3.py
   * Create the environment for both fixed network and dynamic network scenarios.
-   *Generate and save the topology.
+   * Generate and save the topology.
 
