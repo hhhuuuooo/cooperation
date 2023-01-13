@@ -12,5 +12,7 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
     * implement the route decision and the delivery of packets
     * save and load the training neural networks' model
 * dynetwork.py
-  * Realize the packets' generation of the network.
+  * Define network and realize the packets' generation of the network.And the functions it possessed are as follows:
+    * Generate packets having random source and destination pairs during intialization.
+    * Generate new packets when the congestion occurs and a packet has successfully arrive at its destination.
  
