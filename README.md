@@ -16,7 +16,7 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
     * Select action with epsilon-greedy policy.
     * Extract Experiences and teach the agent to make more accurate route policy through achieving multi-agent collaboration.
 * dqnSimualtion.py
-  * Train and save the neural networks of each agent under a series of network load for a certain number of episodes 
+  * Train and save the neural networks of each agent under a series of network load for a certain number of episodes.
   * Test the performance of different methods in fixed topology and dynamic topology respectively.
     * For fixed topology, utilizing the saved model to test the SP and Collaborate RL-Route algorithm.
     * For dynamic topology, carrying out global retraining and local retraining based on the existing neural network model and evaluating their performance.
