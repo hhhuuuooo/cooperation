@@ -49,4 +49,6 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
 * Matplotlib
 ## Usage
 You can run dqnSimualtion.py to test Collaborate DQN Agent in environment created by our_env3.py.And the parameters can be modified in Setting.json.
+## Please cite the following paper
+Multi Agent Distributed Cooperative Routing for Maritime Emergency Communication.
 
