@@ -54,7 +54,7 @@ The **packet routing process** and the **forward path change of packet p** due t
 ## Usage
 You can run dqnSimualtion.py to test Collaborate DQN Agent in environment created by our_env3.py.And the parameters can be modified in Setting.json.
 ## Please cite the following paper
-Multi Agent Distributed Cooperative Routing for Maritime Emergency Communication.
+Multi Agent Distributed Cooperative Routing for Maritime Emergency Communication.<br>
 The authors of this paper:<br>
 **Tingting Yang** Dalian Maritime University yangtingting@dlmu.edu.cn<br>
 **Yujia Huo** Dalian Maritime University hyj09@dlmu.edu.cn<br>
