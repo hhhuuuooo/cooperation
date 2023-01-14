@@ -8,7 +8,7 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
 The system model and **MARL learning framework** is as follows:<br>
 ![](https://img-blog.csdnimg.cn/img_convert/25db9b3c957ec25276a0be7e8f05d71f.png)<br>
 The **packet routing process** and the **forward path change of packet p** due to the movement of nodes are as follows:<br>
-![alt-text-1](https://img-blog.csdnimg.cn/img_convert/a955c93a2fd1f66060e32e2d103633bc.png)![alt-text-2](https://img-blog.csdnimg.cn/img_convert/f8f09929ad87a766bba8ccb6d7f237f4.png)
+![alt-text-1](https://img-blog.csdnimg.cn/img_convert/a955c93a2fd1f66060e32e2d103633bc.png)![alt-text-2](https://img-blog.csdnimg.cn/img_convert/9978baec61297b0dad697a85414716b2.png)
 ## Code structure
 * our_env3.py
   * Create the environment for both fixed network and dynamic network scenarios. And the functions it possessed are as follows:
