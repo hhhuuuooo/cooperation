@@ -4,13 +4,13 @@ We have tune the hyperparameters.<br>
 ## Project description
 We conduct the packet routing simulation on a large-scale dynamic network in order to cope with the issues caused by movement of nodes.And we carry out experiments for both a fixed large topology having 49 nodes and a topology where a small amount of nodes move respectively.<br>
 ***For the fixed large topology***, a certain amount of packets having random source and destination pairs, refer to network load, are generated and entered into nodes' sending-queue during network initialization.Each node has specific length sending-queue and receiving-buffer respectively.When the next-hop node's receiving-queue is full,the packet will be **retransmitted**.And if the packet has been retransmitted exceeding the limit of times we set,then the packet will be dropped, which is regraded as **congestion**. We compare the performance of the traditional shortest-path via Dijkstra's algorithm and our proposed Collabarate DQN Route algorithm in terms of **average-delivery-ratio, average-delivery-time, packet-loss-number and retransmission-ratio.**<br>
-***For the dynamic large topology***, a small amount of nodes are randomly selected to change its locations and reestablish new links on the basis of existing topoloy.And we evaluate the above mentioned performance of four approaches when the topology changes dynamically including shortest-path(SP), Collaborate DQN Route algorithm without retraining, Collabarate DQN Route algorithm with global training, Collabarate DQN Route algorithm with local training.<br>
+***For the dynamic large topology***, a small amount of nodes are randomly selected to change its locations and reestablish new links on the basis of existing topoloy. And we evaluate the above mentioned performance of four approaches when the topology changes dynamically including shortest-path(SP), Collaborate DQN Route algorithm without retraining, Collabarate DQN Route algorithm with global training, Collabarate DQN Route algorithm with local training.<br>
 ## Code structure
 * our_env3.py
   * Create the environment for both fixed network and dynamic network scenarios. And the functions it possessed are as follows:
     * Generate and save the topology, initialize the network and all parameters.
-    * implement the route decision and the delivery of packets
-    * save and load the training neural networks' model
+    * Implement the route decision and the delivery of packets
+    * Save and load the training neural networks' model
 * our_agent.py
   * Create DQN agent instance and realize multi-agent collaboration. And the functions it possessed are as follows:
     * Select action with epsilon-greedy policy.
@@ -25,19 +25,19 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
     * Generate packets having random source and destination pairs during intialization.
     * Generate new packets when the congestion occurs or a packet has successfully arrive at its destination.
 * get_graph.py
-  * Generate the regular 7*7 topology using in simulations.
+  Generate the regular 7*7 topology using in simulations.
 * UpdateEdges.py
-  * Perform dynamically changing topology through randomly selecting nodes to change their coordinates.
+  Perform dynamically changing topology through randomly selecting nodes to change their coordinates.
 * neural_network.py
-  * Define the struture of DQN agent's Neural Network.
+  Define the struture of DQN agent's Neural Network.
 * replay_memory.py
-  * Accomplish saving and sampling the generated experiences during routing process.
+  Accomplish saving and sampling the generated experiences during routing process.
 * Packet.py
-  * Define packet object.
+  Define packet object.
 * net_params.pth
-  * the trained neural networks' model
+  The trained neural networks' model
 * experiences.txt
-  * the generated data set.
+  The generated data set.
 * draw_plots.py
   * Plot the experimental results.
 * Setting.json
