@@ -39,7 +39,7 @@ We conduct the packet routing simulation on a large-scale dynamic network in ord
 * experiences.txt
   * the generated data set.
 * draw_plots.py
-  Plot the experimental results.
+  * Plot the experimental results.
 * setting.json
-  Define all parameters required for the simulation experiments.
+  * Define all parameters required for the simulation experiments.
  
